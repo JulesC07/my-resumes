@@ -1,0 +1,118 @@
+locale:
+  language: french
+
+design:
+  theme: moderncv
+
+cv:
+  photo: IMG_20260122_164922.jpg
+  name: Béninwendé Jules ILBOUDO
+  location: Ouagadougou
+  email: beninwendeilboudo07@gmail.com
+  phone: +226 65366907
+  social_networks:
+    - network: GitHub
+      username: JulesC836
+    - network: LinkedIn
+      username: jules-ilboudo-b4b3633a7
+
+  sections:
+    Pofile:
+      - "Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile.
+        Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement."
+    Education:
+      - degree: "LICENCE" 
+        institution: "IBAM"
+        area: "Méthodes Informatiques Appliquées à la Gestion des Entreprises"
+        start_date: 2023-10
+        end_date: present
+        location: Ouagadougou
+        summary:
+        highlights:
+          - Analyse et conception UML
+          - Modélisation des données relationnelles
+          - Programmation orientée objet Java
+          - Virtualisation, DevOps et développement d'applications N-tiers
+    
+    Langages de programmation et outils:
+      - label: Langages de programmation
+        details: Java, TypeScript, Bash, Dart
+      - label: Frameworks
+        details: Springboot, Angular, Flutter
+      - label: Infrastructure
+        details: Docker, GitHub ,GitHub Actions
+      - label: SGBD
+        details: MariaDB, MongoDB, PostgreSQL
+    
+    Compétences techniques:
+      - Développement d'API REST avec Springboot
+      - Intégration API avec des applications frontend  Angular
+      - Développement d'applications microservices
+      - Développement d'applications mobiles cross-platform avec Flutter
+      - Conception et déploiement d'applications conteneurisées avec Docker
+      - Automatisation de processus de déploiement via GitHub Actions
+    
+    Certifications:
+      - name: "Introduction à Spring Boot et Spring Core"
+        url: "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507"
+        date: 2025
+      - name: "Création d'API REST avec Springboot"
+        url: "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509"
+        date: 2025
+
+    Expérience:
+
+      - company: "Projet personnel"
+        position: "Développeur Mobile"
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - Conception et développement d'une application mobile de suivi d'alimentatio
+          - Interface utilisateur intuitive avec Flutter
+          - Analyse des aliments via Gemini API
+          - "Intégration d'une base de données NoSQL locale: Hive"
+
+
+    Postes de responsabilité:
+      - company: "Club Informatique IBAM"
+        position: "Responsable Relations Extérieures"
+        start_date: 2025-11
+        end_date: 2026-11
+        location: Ouagadougou
+        highlights:
+          - Développement et maintien des partenariats avec les entreprises du secteur IT
+          - Coordination des événements et formations avec des intervenants externes
+          - Représentation du club lors des rencontres inter-universitaires
+
+      - company: "Club Informatique IBAM"
+        position: "Adjoint à l'organisation du Hackathon ComeToCode 6e edition"
+        start_date: 2025-06
+        end_date: 2025-06
+        location: Ouagadougou
+        highlights:
+          - Planification et coordination d'un hackathon de 48h avec plus de 50 participants
+          - Gestion de la logistique et des partenariats sponsors
+          - Animation et encadrement des équipes participantes
+
+
+    Qualités:
+      - label: Résolution de problèmes
+        details: Approche analytique et méthodique pour identifier et résoudre les défis techniques
+      - label: Apprentissage continu
+        details: Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+      - label: Autonomie
+        details: Capable de gérer des projets de bout en bout avec un minimum de supervision
+      - label: Esprit d'équipe
+        details: Collaboration active et partage de connaissances avec les membres de l'équipe
+
+    Langues:
+      - label: Français
+        details: Courant
+      - label: Anglais
+        details: Écrit
+      - label: Mooré
+        details: Courant
+      
+
+
+    
