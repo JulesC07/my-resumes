@@ -4,6 +4,18 @@ locale:
 design:
   theme: moderncv
 
+  typography:
+    # font_family:
+    #   body: "Century Gothic"
+    font_size:
+      body: 12pt
+    line_spacing: 0.8em
+  links:
+    underline: true
+    show_external_link_icon: true
+
+
+
 cv:
   photo: IMG_20260122_164922.jpg
   name: Béninwendé Jules ILBOUDO
@@ -13,14 +25,14 @@ cv:
   social_networks:
     - network: GitHub
       username: JulesC836
-    - network: LinkedIn
-      username: jules-ilboudo-b4b3633a7
+    # - network: LinkedIn
+    #   username: jules-ilboudo-b4b3633a7
 
   sections:
     Pofile:
       - "Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile.
         Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement."
-    Education:
+    Études:
       - degree: "LICENCE" 
         institution: "IBAM"
         area: "Méthodes Informatiques Appliquées à la Gestion des Entreprises"
@@ -105,14 +117,6 @@ cv:
       - label: Esprit d'équipe
         details: Collaboration active et partage de connaissances avec les membres de l'équipe
 
-    Langues:
-      - label: Français
-        details: Courant
-      - label: Anglais
-        details: Écrit
-      - label: Mooré
-        details: Courant
-      
 
 
     

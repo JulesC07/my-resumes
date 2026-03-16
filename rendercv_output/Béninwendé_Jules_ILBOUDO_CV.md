@@ -4,13 +4,12 @@
 - Email: [beninwendeilboudo07@gmail.com](mailto:beninwendeilboudo07@gmail.com)
 - Location: Ouagadougou
 - GitHub: [JulesC836](https://github.com/JulesC836)
-- LinkedIn: [jules-ilboudo-b4b3633a7](https://linkedin.com/in/jules-ilboudo-b4b3633a7)
 
 
 # Pofile
 Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
 
-# Education
+# Études
 ## **IBAM**, LICENCE in Méthodes Informatiques Appliquées à la Gestion des Entreprises -- OuagadougouOct 2023 – présent
 
 - Analyse et conception UML
@@ -106,10 +105,3 @@ Juin 2025 – Juin 2025
 **Autonomie:** Capable de gérer des projets de bout en bout avec un minimum de supervision
 
 **Esprit d'équipe:** Collaboration active et partage de connaissances avec les membres de l'équipe
-
-# Langues
-**Français:** Courant
-
-**Anglais:** Écrit
-
-**Mooré:** Courant

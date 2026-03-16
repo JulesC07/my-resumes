@@ -22,7 +22,7 @@
   colors-links: rgb(0, 79, 144),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
-  typography-line-spacing: 0.6em,
+  typography-line-spacing: 0.8em,
   typography-alignment: "justified",
   typography-date-and-location-column-alignment: right,
   typography-font-family-body: "Fontin",
@@ -30,7 +30,7 @@
   typography-font-family-headline: "Fontin",
   typography-font-family-connections: "Fontin",
   typography-font-family-section-titles: "Fontin",
-  typography-font-size-body: 10pt,
+  typography-font-size-body: 12pt,
   typography-font-size-name: 25pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 10pt,
@@ -44,7 +44,7 @@
   typography-bold-connections: false,
   typography-bold-section-titles: false,
   links-underline: true,
-  links-show-external-link-icon: false,
+  links-show-external-link-icon: true,
   header-alignment: left,
   header-photo-width: 4.15cm,
   header-space-below-name: 0.7cm,
@@ -97,7 +97,6 @@
   [#link("mailto:beninwendeilboudo07@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[beninwendeilboudo07\@gmail.com]]],
   [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[65 36 69 07]]],
   [#link("https://github.com/JulesC836", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC836]]],
-  [#link("https://linkedin.com/in/jules-ilboudo-b4b3633a7", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[jules-ilboudo-b4b3633a7]]],
 )
   ]
 )
@@ -107,7 +106,7 @@
 
 Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
 
-== Education
+== Études
 
 #education-entry(
   [
@@ -254,11 +253,3 @@ Automatisation de processus de déploiement via GitHub Actions
 #strong[Autonomie:] Capable de gérer des projets de bout en bout avec un minimum de supervision
 
 #strong[Esprit d'équipe:] Collaboration active et partage de connaissances avec les membres de l'équipe
-
-== Langues
-
-#strong[Français:] Courant
-
-#strong[Anglais:] Écrit
-
-#strong[Mooré:] Courant
