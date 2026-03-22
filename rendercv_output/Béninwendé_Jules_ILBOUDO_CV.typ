@@ -78,33 +78,25 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 16,
+    day: 22,
   ),
 )
 
 
-#grid(
-  columns: (auto, 1fr),
-  column-gutter: 0cm,
-  align: horizon + left,
-  [#pad(left: 0cm, right: 0.3cm, image("IMG_20260122_164922.jpg", width: 4.15cm))
-],
-  [
 = Béninwendé Jules ILBOUDO
 
 #connections(
   [#connection-with-icon("location-dot")[Ouagadougou]],
   [#link("mailto:beninwendeilboudo07@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[beninwendeilboudo07\@gmail.com]]],
   [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[65 36 69 07]]],
+  [#link("https://jules-dev.onrender.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[jules-dev.onrender.com]]],
   [#link("https://github.com/JulesC836", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC836]]],
-)
-  ]
 )
 
 
 == Pofile
 
-Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
+Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
 
 == Études
 
@@ -153,31 +145,33 @@ Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
 
+Bonne connaissances de l'environnement linux
+
 == Certifications
 
-#regular-entry(
+  #regular-entry(
   [
     #strong[Introduction à Spring Boot et Spring Core]
 
   ],
   [
-    2025
-
   ],
   main-column-second-row: [
+    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/courses\/507]
+
   ],
 )
 
-#regular-entry(
+  #regular-entry(
   [
     #strong[Création d'API REST avec Springboot]
 
   ],
   [
-    2025
-
   ],
   main-column-second-row: [
+    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/courses\/509]
+
   ],
 )
 
@@ -193,7 +187,7 @@ Automatisation de processus de déploiement via GitHub Actions
 
   ],
   main-column-second-row: [
-    - Conception et développement d'une application mobile de suivi d'alimentatio
+    - Conception et développement d'une application mobile de suivi d'alimentation
 
     - Interface utilisateur intuitive avec Flutter
 

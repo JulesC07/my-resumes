@@ -3,11 +3,12 @@
 - Phone: +226 65 36 69 07
 - Email: [beninwendeilboudo07@gmail.com](mailto:beninwendeilboudo07@gmail.com)
 - Location: Ouagadougou
+- Website: [jules-dev.onrender.com](https://jules-dev.onrender.com/)
 - GitHub: [JulesC836](https://github.com/JulesC836)
 
 
 # Pofile
-Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
+Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
 
 # Études
 ## **IBAM**, LICENCE in Méthodes Informatiques Appliquées à la Gestion des Entreprises -- OuagadougouOct 2023 – présent
@@ -44,16 +45,18 @@ Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
 
+Bonne connaissances de l'environnement linux
+
 # Certifications
 ## **Introduction à Spring Boot et Spring Core**
 
-2025
+- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507)
 
 
 
 ## **Création d'API REST avec Springboot**
 
-2025
+- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509)
 
 
 
@@ -62,7 +65,7 @@ Automatisation de processus de déploiement via GitHub Actions
 
 Sep 2025 – Fév 2026
 
-- Conception et développement d'une application mobile de suivi d'alimentatio
+- Conception et développement d'une application mobile de suivi d'alimentation
 
 - Interface utilisateur intuitive avec Flutter
 

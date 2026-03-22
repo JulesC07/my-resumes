@@ -17,11 +17,12 @@ design:
 
 
 cv:
-  photo: IMG_20260122_164922.jpg
+  #photo: IMG_20260122_164922.jpg
   name: Béninwendé Jules ILBOUDO
   location: Ouagadougou
   email: beninwendeilboudo07@gmail.com
   phone: +226 65366907
+  website: https://jules-dev.onrender.com
   social_networks:
     - network: GitHub
       username: JulesC836
@@ -30,7 +31,7 @@ cv:
 
   sections:
     Pofile:
-      - "Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 à 6 mois) en développement Web et Mobile.
+      - "Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile.
         Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement."
     Études:
       - degree: "LICENCE" 
@@ -63,14 +64,18 @@ cv:
       - Développement d'applications mobiles cross-platform avec Flutter
       - Conception et déploiement d'applications conteneurisées avec Docker
       - Automatisation de processus de déploiement via GitHub Actions
+      - Bonne connaissances de l'environnement linux
     
     Certifications:
       - name: "Introduction à Spring Boot et Spring Core"
-        url: "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507"
-        date: 2025
+        highlights:
+          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507)"
+
       - name: "Création d'API REST avec Springboot"
-        url: "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509"
-        date: 2025
+        highlights:
+          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509)"
+
+
 
     Expérience:
 
@@ -79,7 +84,7 @@ cv:
         start_date: 2025-09
         end_date: 2026-02
         highlights:
-          - Conception et développement d'une application mobile de suivi d'alimentatio
+          - Conception et développement d'une application mobile de suivi d'alimentation
           - Interface utilisateur intuitive avec Flutter
           - Analyse des aliments via Gemini API
           - "Intégration d'une base de données NoSQL locale: Hive"
@@ -116,7 +121,3 @@ cv:
         details: Capable de gérer des projets de bout en bout avec un minimum de supervision
       - label: Esprit d'équipe
         details: Collaboration active et partage de connaissances avec les membres de l'équipe
-
-
-
-    
