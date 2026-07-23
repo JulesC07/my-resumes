@@ -2,14 +2,14 @@ locale:
   language: french
 
 design:
-  theme: moderncv
+  theme: harvard
 
   typography:
     # font_family:
     #   body: "Century Gothic"
     font_size:
       body: 12pt
-    line_spacing: 0.8em
+    line_spacing: 1.0em
   links:
     underline: true
     show_external_link_icon: true
@@ -31,16 +31,20 @@ cv:
 
   sections:
     Pofile:
-      - "Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile.
-        Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement."
+      - "Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile.
+        Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant."
     Études:
-      - degree: "LICENCE" 
-        institution: "IBAM"
-        area: "Méthodes Informatiques Appliquées à la Gestion des Entreprises"
+      - institution: "Lycée Provincial Bassy de Ziniaré"
+        area: "Baccalauréat Série C"
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
+
+      - institution: "IBAM"
+        area: " Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises"
         start_date: 2023-10
-        end_date: present
+        end_date: 2026-06
         location: Ouagadougou
-        summary:
         highlights:
           - Analyse et conception UML
           - Modélisation des données relationnelles
@@ -49,31 +53,31 @@ cv:
     
     Langages de programmation et outils:
       - label: Langages de programmation
-        details: Java, TypeScript, Bash, Dart
+        details: Java, TypeScript, python, Dart
       - label: Frameworks
-        details: Springboot, Angular, Flutter
+        details: Springboot, Angular, Flutter, Fastapi
       - label: Infrastructure
-        details: Docker, GitHub ,GitHub Actions
+        details: Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
       - label: SGBD
         details: MariaDB, MongoDB, PostgreSQL
     
     Compétences techniques:
       - Développement d'API REST avec Springboot
       - Intégration API avec des applications frontend  Angular
-      - Développement d'applications microservices
+      - "Architectures logiciels: Microservices, Modulith, Hexagonal"
       - Développement d'applications mobiles cross-platform avec Flutter
       - Conception et déploiement d'applications conteneurisées avec Docker
       - Automatisation de processus de déploiement via GitHub Actions
-      - Bonne connaissances de l'environnement linux
+      - Maitrise de l'environnement linux
     
     Certifications:
-      - name: "Introduction à Spring Boot et Spring Core"
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
         highlights:
-          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507)"
+          - "[https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6](https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6)"
 
-      - name: "Création d'API REST avec Springboot"
+      - name: "Springboot REST API with Java and Gradle"
         highlights:
-          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509)"
+          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107)"
 
 
 
@@ -89,6 +93,28 @@ cv:
           - Analyse des aliments via Gemini API
           - "Intégration d'une base de données NoSQL locale: Hive"
 
+      - company: "Club Informatique de l'IBAM"
+        position: "Développeur FullStack"
+        start_date: 2026-06
+        end_date: 2026-06
+        highlights:
+          - Conception et développement d'une application mobile de Stockage cloud
+          - Utilisation de Supabase pour le stockage des données et l'authentification
+          - Développement d'un back office avec Angular
+          - Déploiement sur vercel
+
+
+      - company: "Yandoama Consulting"
+        position: "Développeur FullStack"
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+          - Développement d'une PI REST Springboot intégrée à un backend préexistant
+          - Développement d'une interface utilisateur Angular avec dashboard en temps réel
+          - Maitrise opérationelle du SGBD PostgreSQL
+          - Intégration de keycloak pour la estion des identifiants
+          - Utilisation de CheckStyle pour assurer la qualité du code Springboot
 
     Postes de responsabilité:
       - company: "Club Informatique IBAM"
@@ -100,6 +126,7 @@ cv:
           - Développement et maintien des partenariats avec les entreprises du secteur IT
           - Coordination des événements et formations avec des intervenants externes
           - Représentation du club lors des rencontres inter-universitaires
+          
 
       - company: "Club Informatique IBAM"
         position: "Adjoint à l'organisation du Hackathon ComeToCode 6e edition"
@@ -113,10 +140,10 @@ cv:
 
 
     Qualités:
-      - label: Résolution de problèmes
-        details: Approche analytique et méthodique pour identifier et résoudre les défis techniques
       - label: Apprentissage continu
         details: Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+      - label: Résolution de problèmes
+        details: Capacité à identifier et résoudre les défis techniques
       - label: Autonomie
         details: Capable de gérer des projets de bout en bout avec un minimum de supervision
       - label: Esprit d'équipe

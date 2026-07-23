@@ -8,10 +8,24 @@
 
 
 # Pofile
-Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
+Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant.
 
 # Études
-## **IBAM**, LICENCE in Méthodes Informatiques Appliquées à la Gestion des Entreprises -- OuagadougouOct 2023 – présent
+## **Lycée Provincial Bassy de Ziniaré**, Baccalauréat Série C -- Ziniaré
+
+
+
+
+Sep 2020 – Juin 2023
+
+
+
+## **IBAM**,  Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises -- Ouagadougou
+
+
+
+
+Oct 2023 – Juin 2026
 
 - Analyse et conception UML
 
@@ -24,11 +38,11 @@
 
 
 # Langages de programmation et outils
-**Langages de programmation:** Java, TypeScript, Bash, Dart
+**Langages de programmation:** Java, TypeScript, python, Dart
 
-**Frameworks:** Springboot, Angular, Flutter
+**Frameworks:** Springboot, Angular, Flutter, Fastapi
 
-**Infrastructure:** Docker, GitHub ,GitHub Actions
+**Infrastructure:** Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
 
 **SGBD:** MariaDB, MongoDB, PostgreSQL
 
@@ -37,7 +51,7 @@ Développement d'API REST avec Springboot
 
 Intégration API avec des applications frontend  Angular
 
-Développement d'applications microservices
+Architectures logiciels: Microservices, Modulith, Hexagonal
 
 Développement d'applications mobiles cross-platform avec Flutter
 
@@ -45,23 +59,23 @@ Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
 
-Bonne connaissances de l'environnement linux
+Maitrise de l'environnement linux
 
 # Certifications
-## **Introduction à Spring Boot et Spring Core**
+## **Bash Scripting & Shell Automation: The Linux Architect Guide**
 
-- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507)
+- [https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6](https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6)
 
 
 
-## **Création d'API REST avec Springboot**
+## **Springboot REST API with Java and Gradle**
 
-- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509)
+- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107)
 
 
 
 # Expérience
-## **Développeur Mobile**, Projet personnel
+## **Projet personnel**, Développeur Mobile
 
 Sep 2025 – Fév 2026
 
@@ -75,8 +89,40 @@ Sep 2025 – Fév 2026
 
 
 
+## **Club Informatique de l'IBAM**, Développeur FullStack
+
+Juin 2026 – Juin 2026
+
+- Conception et développement d'une application mobile de Stockage cloud
+
+- Utilisation de Supabase pour le stockage des données et l'authentification
+
+- Développement d'un back office avec Angular
+
+- Déploiement sur vercel
+
+
+
+## **Yandoama Consulting**, Développeur FullStack
+
+Mai 2026 – Aoû 2026
+
+- Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+
+- Développement d'une PI REST Springboot intégrée à un backend préexistant
+
+- Développement d'une interface utilisateur Angular avec dashboard en temps réel
+
+- Maitrise opérationelle du SGBD PostgreSQL
+
+- Intégration de keycloak pour la estion des identifiants
+
+- Utilisation de CheckStyle pour assurer la qualité du code Springboot
+
+
+
 # Postes de responsabilité
-## **Responsable Relations Extérieures**, Club Informatique IBAM -- Ouagadougou
+## **Club Informatique IBAM**, Responsable Relations Extérieures -- Ouagadougou
 
 Nov 2025 – Nov 2026
 
@@ -88,7 +134,7 @@ Nov 2025 – Nov 2026
 
 
 
-## **Adjoint à l'organisation du Hackathon ComeToCode 6e edition**, Club Informatique IBAM -- Ouagadougou
+## **Club Informatique IBAM**, Adjoint à l'organisation du Hackathon ComeToCode 6e edition -- Ouagadougou
 
 Juin 2025 – Juin 2025
 
@@ -101,9 +147,9 @@ Juin 2025 – Juin 2025
 
 
 # Qualités
-**Résolution de problèmes:** Approche analytique et méthodique pour identifier et résoudre les défis techniques
-
 **Apprentissage continu:** Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+
+**Résolution de problèmes:** Capacité à identifier et résoudre les défis techniques
 
 **Autonomie:** Capable de gérer des projets de bout en bout avec un minimum de supervision
 

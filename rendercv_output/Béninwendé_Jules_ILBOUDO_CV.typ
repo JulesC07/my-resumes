@@ -1,84 +1,87 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Béninwendé Jules ILBOUDO",
+  title: "Béninwendé Jules ILBOUDO - CV",
   footer: context { [#emph[Béninwendé Jules ILBOUDO -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Dernière mise à jour Mar 2026] ],
+  top-note: [ #emph[Dernière mise à jour Juil 2026] ],
   locale-catalog-language: "fr",
+  text-direction: ltr,
   page-size: "us-letter",
-  page-top-margin: 0.7in,
-  page-bottom-margin: 0.7in,
-  page-left-margin: 0.7in,
-  page-right-margin: 0.7in,
+  page-top-margin: 0.5in,
+  page-bottom-margin: 0.5in,
+  page-left-margin: 0.5in,
+  page-right-margin: 0.5in,
   page-show-footer: true,
-  page-show-top-note: true,
+  page-show-top-note: false,
   colors-body: rgb(0, 0, 0),
-  colors-name: rgb(0, 79, 144),
-  colors-headline: rgb(0, 79, 144),
-  colors-connections: rgb(0, 79, 144),
-  colors-section-titles: rgb(0, 79, 144),
-  colors-links: rgb(0, 79, 144),
+  colors-name: rgb(0, 0, 0),
+  colors-headline: rgb(0, 0, 0),
+  colors-connections: rgb(0, 0, 0),
+  colors-section-titles: rgb(0, 0, 0),
+  colors-links: rgb(0, 0, 0),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
-  typography-line-spacing: 0.8em,
+  typography-line-spacing: 1.0em,
   typography-alignment: "justified",
   typography-date-and-location-column-alignment: right,
-  typography-font-family-body: "Fontin",
-  typography-font-family-name: "Fontin",
-  typography-font-family-headline: "Fontin",
-  typography-font-family-connections: "Fontin",
-  typography-font-family-section-titles: "Fontin",
+  typography-font-family-body: "XCharter",
+  typography-font-family-name: "XCharter",
+  typography-font-family-headline: "XCharter",
+  typography-font-family-connections: "XCharter",
+  typography-font-family-section-titles: "XCharter",
   typography-font-size-body: 12pt,
   typography-font-size-name: 25pt,
   typography-font-size-headline: 10pt,
-  typography-font-size-connections: 10pt,
-  typography-font-size-section-titles: 1.4em,
+  typography-font-size-connections: 9pt,
+  typography-font-size-section-titles: 1.3em,
   typography-small-caps-name: false,
   typography-small-caps-headline: false,
   typography-small-caps-connections: false,
   typography-small-caps-section-titles: false,
-  typography-bold-name: false,
+  typography-bold-name: true,
   typography-bold-headline: false,
   typography-bold-connections: false,
-  typography-bold-section-titles: false,
+  typography-bold-section-titles: true,
   links-underline: true,
   links-show-external-link-icon: true,
-  header-alignment: left,
-  header-photo-width: 4.15cm,
-  header-space-below-name: 0.7cm,
-  header-space-below-headline: 0.7cm,
-  header-space-below-connections: 0.7cm,
+  header-alignment: center,
+  header-photo-width: 3.5cm,
+  header-space-below-name: 0.5cm,
+  header-space-below-headline: 0.5cm,
+  header-space-below-connections: 0.5cm,
   header-connections-hyperlink: true,
-  header-connections-show-icons: true,
+  header-connections-show-icons: false,
   header-connections-display-urls-instead-of-usernames: false,
-  header-connections-separator: "",
-  header-connections-space-between-connections: 0.5cm,
-  section-titles-type: "moderncv",
-  section-titles-line-thickness: 0.15cm,
-  section-titles-space-above: 0.55cm,
-  section-titles-space-below: 0.3cm,
+  header-connections-separator: "•",
+  header-connections-space-between-connections: 0.4cm,
+  section-titles-type: "centered_with_centered_partial_line",
+  section-titles-line-thickness: 0.5pt,
+  section-titles-space-above: 0.5cm,
+  section-titles-space-below: 0.2cm,
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.3em,
-  sections-space-between-regular-entries: 1.2em,
+  sections-space-between-regular-entries: 1em,
   entries-date-and-location-width: 4.15cm,
-  entries-side-space: 0cm,
-  entries-space-between-columns: 0.3cm,
+  entries-side-space: 0.2cm,
+  entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
-  entries-summary-space-above: 0.1cm,
+  entries-summary-space-above: 0cm,
   entries-highlights-bullet:  "•" ,
   entries-highlights-nested-bullet:  "•" ,
-  entries-highlights-space-left: 0cm,
-  entries-highlights-space-above: 0.15cm,
-  entries-highlights-space-between-items: 0.1cm,
-  entries-highlights-space-between-bullet-and-text: 0.3em,
+  entries-highlights-space-left: 0.15cm,
+  entries-highlights-space-above: 0cm,
+  entries-highlights-space-between-items: 0cm,
+  entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 3,
-    day: 22,
+    month: 7,
+    day: 23,
   ),
 )
 
@@ -86,28 +89,47 @@
 = Béninwendé Jules ILBOUDO
 
 #connections(
-  [#connection-with-icon("location-dot")[Ouagadougou]],
-  [#link("mailto:beninwendeilboudo07@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[beninwendeilboudo07\@gmail.com]]],
-  [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[65 36 69 07]]],
-  [#link("https://jules-dev.onrender.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[jules-dev.onrender.com]]],
-  [#link("https://github.com/JulesC836", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC836]]],
+  [Ouagadougou],
+  [#link("mailto:beninwendeilboudo07@gmail.com", icon: false, if-underline: false, if-color: false)[beninwendeilboudo07\@gmail.com]],
+  [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[65 36 69 07]],
+  [#link("https://jules-dev.onrender.com/", icon: false, if-underline: false, if-color: false)[jules-dev.onrender.com]],
+  [#link("https://github.com/JulesC836", icon: false, if-underline: false, if-color: false)[JulesC836]],
 )
 
 
 == Pofile
 
-Étudiant en L3 Informatique passionné par la création de solutions numériques, je recherche un stage de fin de cycle (3 mois) en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement.
+Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant.
 
 == Études
 
 #education-entry(
   [
-    #strong[IBAM], LICENCE in Méthodes Informatiques Appliquées à la Gestion des Entreprises -- Ouagadougou
+    #strong[Lycée Provincial Bassy de Ziniaré], Baccalauréat Série C -- Ziniaré
 
   ],
   [
-    Oct 2023 – présent
+    Sep 2020 – Juin 2023
 
+  ],
+  degree-column: [
+    
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#education-entry(
+  [
+    #strong[IBAM],  Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises -- Ouagadougou
+
+  ],
+  [
+    Oct 2023 – Juin 2026
+
+  ],
+  degree-column: [
+    
   ],
   main-column-second-row: [
     - Analyse et conception UML
@@ -123,11 +145,11 @@
 
 == Langages de programmation et outils
 
-#strong[Langages de programmation:] Java, TypeScript, Bash, Dart
+#strong[Langages de programmation:] Java, TypeScript, python, Dart
 
-#strong[Frameworks:] Springboot, Angular, Flutter
+#strong[Frameworks:] Springboot, Angular, Flutter, Fastapi
 
-#strong[Infrastructure:] Docker, GitHub ,GitHub Actions
+#strong[Infrastructure:] Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
 
 #strong[SGBD:] MariaDB, MongoDB, PostgreSQL
 
@@ -137,7 +159,7 @@ Développement d'API REST avec Springboot
 
 Intégration API avec des applications frontend  Angular
 
-Développement d'applications microservices
+Architectures logiciels: Microservices, Modulith, Hexagonal
 
 Développement d'applications mobiles cross-platform avec Flutter
 
@@ -145,32 +167,32 @@ Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
 
-Bonne connaissances de l'environnement linux
+Maitrise de l'environnement linux
 
 == Certifications
 
   #regular-entry(
   [
-    #strong[Introduction à Spring Boot et Spring Core]
+    #strong[Bash Scripting & Shell Automation: The Linux Architect Guide]
 
   ],
   [
   ],
   main-column-second-row: [
-    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/507")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/courses\/507]
+    - #link("https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6")[https:\/\/www.udemy.com\/certificate\/UC-b5876838-b974-47bf-8497-4616b97077f6]
 
   ],
 )
 
   #regular-entry(
   [
-    #strong[Création d'API REST avec Springboot]
+    #strong[Springboot REST API with Java and Gradle]
 
   ],
   [
   ],
   main-column-second-row: [
-    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/courses/509")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/courses\/509]
+    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/course-paths\/107]
 
   ],
 )
@@ -179,7 +201,7 @@ Bonne connaissances de l'environnement linux
 
 #regular-entry(
   [
-    #strong[Développeur Mobile], Projet personnel
+    #strong[Projet personnel], Développeur Mobile
 
   ],
   [
@@ -198,11 +220,57 @@ Bonne connaissances de l'environnement linux
   ],
 )
 
+#regular-entry(
+  [
+    #strong[Club Informatique de l'IBAM], Développeur FullStack
+
+  ],
+  [
+    Juin 2026 – Juin 2026
+
+  ],
+  main-column-second-row: [
+    - Conception et développement d'une application mobile de Stockage cloud
+
+    - Utilisation de Supabase pour le stockage des données et l'authentification
+
+    - Développement d'un back office avec Angular
+
+    - Déploiement sur vercel
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Yandoama Consulting], Développeur FullStack
+
+  ],
+  [
+    Mai 2026 – Aoû 2026
+
+  ],
+  main-column-second-row: [
+    - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+
+    - Développement d'une PI REST Springboot intégrée à un backend préexistant
+
+    - Développement d'une interface utilisateur Angular avec dashboard en temps réel
+
+    - Maitrise opérationelle du SGBD PostgreSQL
+
+    - Intégration de keycloak pour la estion des identifiants
+
+    - Utilisation de CheckStyle pour assurer la qualité du code Springboot
+
+  ],
+)
+
 == Postes de responsabilité
 
 #regular-entry(
   [
-    #strong[Responsable Relations Extérieures], Club Informatique IBAM -- Ouagadougou
+    #strong[Club Informatique IBAM], Responsable Relations Extérieures -- Ouagadougou
 
   ],
   [
@@ -221,7 +289,7 @@ Bonne connaissances de l'environnement linux
 
 #regular-entry(
   [
-    #strong[Adjoint à l'organisation du Hackathon ComeToCode 6e edition], Club Informatique IBAM -- Ouagadougou
+    #strong[Club Informatique IBAM], Adjoint à l'organisation du Hackathon ComeToCode 6e edition -- Ouagadougou
 
   ],
   [
@@ -240,9 +308,9 @@ Bonne connaissances de l'environnement linux
 
 == Qualités
 
-#strong[Résolution de problèmes:] Approche analytique et méthodique pour identifier et résoudre les défis techniques
-
 #strong[Apprentissage continu:] Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+
+#strong[Résolution de problèmes:] Capacité à identifier et résoudre les défis techniques
 
 #strong[Autonomie:] Capable de gérer des projets de bout en bout avec un minimum de supervision
 
