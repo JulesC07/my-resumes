@@ -17,7 +17,7 @@ design:
 
 
 cv:
-  #photo: IMG_20260122_164922.jpg
+  photo: photo.jpeg
   name: Béninwendé Jules ILBOUDO
   location: Ouagadougou
   email: beninwendeilboudo07@gmail.com
@@ -31,8 +31,8 @@ cv:
 
   sections:
     Pofile:
-      - "Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile.
-        Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant."
+      - "Développeur fullstack | Ingénieur de travaux Informatiques, option génie logiciel "
+
     Études:
       - institution: "Lycée Provincial Bassy de Ziniaré"
         area: "Baccalauréat Série C"
@@ -55,19 +55,22 @@ cv:
       - label: Langages de programmation
         details: Java, TypeScript, python, Dart
       - label: Frameworks
-        details: Springboot, Angular, Flutter, Fastapi
+        details: Springboot, Angular, Flutter,Djago, Fastapi
       - label: Infrastructure
         details: Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
       - label: SGBD
         details: MariaDB, MongoDB, PostgreSQL
+      - label: Automatisations
+        details: n8n
     
     Compétences techniques:
-      - Développement d'API REST avec Springboot
+      - Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
       - Intégration API avec des applications frontend  Angular
-      - "Architectures logiciels: Microservices, Modulith, Hexagonal"
       - Développement d'applications mobiles cross-platform avec Flutter
       - Conception et déploiement d'applications conteneurisées avec Docker
       - Automatisation de processus de déploiement via GitHub Actions
+      - "Architectures logiciels: Microservices, Modulith, Hexagonal"
+      - Automatisation de tâches avec n8n
       - Maitrise de l'environnement linux
     
     Certifications:
@@ -82,6 +85,41 @@ cv:
 
 
     Expérience:
+
+      - company: "Yandoama Consulting"
+        position: "Consultant Développeur FullStack"
+        start_date: 2026-01
+        end_date: present
+        highlights:
+          - Développement d'API en Java Springboot
+          - Développement d'applications Web en Angular
+          - Développement d'applications mobiles avec Flutter
+
+      - company: "Yandoama Consulting"
+        position: "Stagiaire Développeur FullStack"
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+          - Développement de modules Springboot intégrés à un système préexistant
+          - Développement d'une interface utilisateur Angular avec dashboard en temps réel
+          - Maitrise opérationelle du SGBD PostgreSQL
+          - Intégration de keycloak pour la estion des identifiants
+          - Utilisation de CheckStyle pour assurer la qualité du code Springboot
+          - Méthodologie de travail scrum avec des sprints hebdomadaires
+
+      - company: IBAM - Projet académique"
+        position: "Développeur FullStack"
+        start_date: 2026-04
+        end_date: 2026-05
+        highlights:
+          - Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+          - Api REST avec FastApi
+          - Frontend avec Angular
+          - Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
+          - Utilisation de la librairie Alembic pour le versionning de la base de donnée
+          - Utilisation du modèle Sentence Transformer pour la détection de plagiat
+          - Intégration de l'authentification JWT avec 3 rôles utilisateur
 
       - company: "Projet personnel"
         position: "Développeur Mobile"
@@ -98,23 +136,11 @@ cv:
         start_date: 2026-06
         end_date: 2026-06
         highlights:
-          - Conception et développement d'une application mobile de Stockage cloud
+          - Conception, développement et déploiement d'une application mobile de Stockage cloud
           - Utilisation de Supabase pour le stockage des données et l'authentification
           - Développement d'un back office avec Angular
-          - Déploiement sur vercel
+          - Projet déployé et exploitable
 
-
-      - company: "Yandoama Consulting"
-        position: "Développeur FullStack"
-        start_date: 2026-05
-        end_date: 2026-08
-        highlights:
-          - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
-          - Développement d'une PI REST Springboot intégrée à un backend préexistant
-          - Développement d'une interface utilisateur Angular avec dashboard en temps réel
-          - Maitrise opérationelle du SGBD PostgreSQL
-          - Intégration de keycloak pour la estion des identifiants
-          - Utilisation de CheckStyle pour assurer la qualité du code Springboot
 
     Postes de responsabilité:
       - company: "Club Informatique IBAM"

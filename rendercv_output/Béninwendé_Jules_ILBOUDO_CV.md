@@ -8,7 +8,7 @@
 
 
 # Pofile
-Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant.
+Titulaire d'une licence en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux, curieux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement tout en montant en compétences.
 
 # Études
 ## **Lycée Provincial Bassy de Ziniaré**, Baccalauréat Série C -- Ziniaré
@@ -40,24 +40,28 @@ Oct 2023 – Juin 2026
 # Langages de programmation et outils
 **Langages de programmation:** Java, TypeScript, python, Dart
 
-**Frameworks:** Springboot, Angular, Flutter, Fastapi
+**Frameworks:** Springboot, Angular, Flutter,Djago, Fastapi
 
 **Infrastructure:** Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
 
 **SGBD:** MariaDB, MongoDB, PostgreSQL
 
+**Automatisations:** n8n
+
 # Compétences techniques
-Développement d'API REST avec Springboot
+Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
 
 Intégration API avec des applications frontend  Angular
-
-Architectures logiciels: Microservices, Modulith, Hexagonal
 
 Développement d'applications mobiles cross-platform avec Flutter
 
 Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
+
+Architectures logiciels: Microservices, Modulith, Hexagonal
+
+Automatisation de tâches avec n8n
 
 Maitrise de l'environnement linux
 
@@ -75,6 +79,26 @@ Maitrise de l'environnement linux
 
 
 # Expérience
+## **IBAM - Projet académique"**, Développeur FullStack
+
+Avr 2026 – Mai 2026
+
+- Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+
+- Api REST avec FastApi
+
+- Frontend avec Angular
+
+- Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
+
+- Utilisation de la librairie Alembic pour le versionning de la base de donnée
+
+- Utilisation du modèle Sentence Transformer pour la détection de plagiat
+
+- Intégration de l'authentification JWT avec 3 rôles utilisateur
+
+
+
 ## **Projet personnel**, Développeur Mobile
 
 Sep 2025 – Fév 2026
@@ -93,13 +117,13 @@ Sep 2025 – Fév 2026
 
 Juin 2026 – Juin 2026
 
-- Conception et développement d'une application mobile de Stockage cloud
+- Conception, développement et déploiement d'une application mobile de Stockage cloud
 
 - Utilisation de Supabase pour le stockage des données et l'authentification
 
 - Développement d'un back office avec Angular
 
-- Déploiement sur vercel
+- Projet déployé et exploitable
 
 
 
@@ -109,7 +133,7 @@ Mai 2026 – Aoû 2026
 
 - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
 
-- Développement d'une PI REST Springboot intégrée à un backend préexistant
+- Développement de modules Springboot intégrés à un système préexistant
 
 - Développement d'une interface utilisateur Angular avec dashboard en temps réel
 
@@ -118,6 +142,8 @@ Mai 2026 – Aoû 2026
 - Intégration de keycloak pour la estion des identifiants
 
 - Utilisation de CheckStyle pour assurer la qualité du code Springboot
+
+- Méthodologie de travail scrum avec des sprints hebdomadaires
 
 
 

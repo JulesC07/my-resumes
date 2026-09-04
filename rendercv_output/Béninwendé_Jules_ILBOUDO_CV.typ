@@ -6,7 +6,7 @@
   name: "Béninwendé Jules ILBOUDO",
   title: "Béninwendé Jules ILBOUDO - CV",
   footer: context { [#emph[Béninwendé Jules ILBOUDO -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Dernière mise à jour Juil 2026] ],
+  top-note: [ #emph[Dernière mise à jour Aoû 2026] ],
   locale-catalog-language: "fr",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 7,
-    day: 23,
+    month: 8,
+    day: 14,
   ),
 )
 
@@ -99,7 +99,7 @@
 
 == Pofile
 
-Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à des projets de développement tout en apprenant.
+Titulaire d'une licence en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux, curieux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement tout en montant en compétences.
 
 == Études
 
@@ -147,25 +147,29 @@ Titulaire d'une licence en en Méthode Informatique Appliquée à La Gestion des
 
 #strong[Langages de programmation:] Java, TypeScript, python, Dart
 
-#strong[Frameworks:] Springboot, Angular, Flutter, Fastapi
+#strong[Frameworks:] Springboot, Angular, Flutter,Djago, Fastapi
 
 #strong[Infrastructure:] Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
 
 #strong[SGBD:] MariaDB, MongoDB, PostgreSQL
 
+#strong[Automatisations:] n8n
+
 == Compétences techniques
 
-Développement d'API REST avec Springboot
+Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
 
 Intégration API avec des applications frontend  Angular
-
-Architectures logiciels: Microservices, Modulith, Hexagonal
 
 Développement d'applications mobiles cross-platform avec Flutter
 
 Conception et déploiement d'applications conteneurisées avec Docker
 
 Automatisation de processus de déploiement via GitHub Actions
+
+Architectures logiciels: Microservices, Modulith, Hexagonal
+
+Automatisation de tâches avec n8n
 
 Maitrise de l'environnement linux
 
@@ -201,6 +205,33 @@ Maitrise de l'environnement linux
 
 #regular-entry(
   [
+    #strong[IBAM - Projet académique\"], Développeur FullStack
+
+  ],
+  [
+    Avr 2026 – Mai 2026
+
+  ],
+  main-column-second-row: [
+    - Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+
+    - Api REST avec FastApi
+
+    - Frontend avec Angular
+
+    - Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
+
+    - Utilisation de la librairie Alembic pour le versionning de la base de donnée
+
+    - Utilisation du modèle Sentence Transformer pour la détection de plagiat
+
+    - Intégration de l'authentification JWT avec 3 rôles utilisateur
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Projet personnel], Développeur Mobile
 
   ],
@@ -230,13 +261,13 @@ Maitrise de l'environnement linux
 
   ],
   main-column-second-row: [
-    - Conception et développement d'une application mobile de Stockage cloud
+    - Conception, développement et déploiement d'une application mobile de Stockage cloud
 
     - Utilisation de Supabase pour le stockage des données et l'authentification
 
     - Développement d'un back office avec Angular
 
-    - Déploiement sur vercel
+    - Projet déployé et exploitable
 
   ],
 )
@@ -253,7 +284,7 @@ Maitrise de l'environnement linux
   main-column-second-row: [
     - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
 
-    - Développement d'une PI REST Springboot intégrée à un backend préexistant
+    - Développement de modules Springboot intégrés à un système préexistant
 
     - Développement d'une interface utilisateur Angular avec dashboard en temps réel
 
@@ -262,6 +293,8 @@ Maitrise de l'environnement linux
     - Intégration de keycloak pour la estion des identifiants
 
     - Utilisation de CheckStyle pour assurer la qualité du code Springboot
+
+    - Méthodologie de travail scrum avec des sprints hebdomadaires
 
   ],
 )
