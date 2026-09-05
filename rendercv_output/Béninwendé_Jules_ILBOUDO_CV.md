@@ -1,39 +1,93 @@
 # Béninwendé Jules ILBOUDO's CV
 
 - Phone: +226 65 36 69 07
-- Email: [beninwendeilboudo07@gmail.com](mailto:beninwendeilboudo07@gmail.com)
+- Email: [beninwende07@gmail.com](mailto:beninwende07@gmail.com)
 - Location: Ouagadougou
 - Website: [jules-dev.onrender.com](https://jules-dev.onrender.com/)
 - GitHub: [JulesC836](https://github.com/JulesC836)
 
 
 # Pofile
-Titulaire d'une licence en Méthode Informatique Appliquée à La Gestion des Entreprises (MIAGE), Je suis à la recherche d'opportunités en développement Web et Mobile. Rigoureux, curieux et autonome, je souhaite mobiliser mes compétences techniques pour contribuer concrètement à vos projets de développement tout en montant en compétences.
+Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | Ingénieur de travaux Informatiques option génie logiciel, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)
 
-# Études
-## **Lycée Provincial Bassy de Ziniaré**, Baccalauréat Série C -- Ziniaré
+# Expérience
+## **Yandoama Consulting**, *Consultant Développeur FullStack*
 
+Sep 2026 – présent
 
+- Développement d'API en Java Springboot
 
+- Développement d'applications Web en Angular
 
-Sep 2020 – Juin 2023
-
-
-
-## **IBAM**,  Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises -- Ouagadougou
-
+- Développement d'applications mobiles avec Flutter
 
 
 
-Oct 2023 – Juin 2026
+## **Yandoama Consulting**, *Stagiaire Développeur FullStack*
 
-- Analyse et conception UML
+Mai 2026 – Aoû 2026
 
-- Modélisation des données relationnelles
+- Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
 
-- Programmation orientée objet Java
+- Développement de modules Springboot intégrés à un système préexistant
 
-- Virtualisation, DevOps et développement d'applications N-tiers
+- Développement d'une interface utilisateur Angular avec dashboard en temps réel
+
+- Maitrise opérationelle du SGBD PostgreSQL
+
+- Intégration de keycloak pour la estion des identifiants
+
+- Utilisation de CheckStyle pour assurer la qualité du code Springboot
+
+- Méthodologie de travail scrum avec des sprints hebdomadaires
+
+
+
+## **IBAM - Projet académique"**, *Développeur FullStack*
+
+Avr 2026 – Mai 2026
+
+- Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+
+- Api REST avec FastApi
+
+- Frontend avec Angular
+
+- Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
+
+- Utilisation de la librairie Alembic pour le versionning de la base de donnée
+
+- Utilisation du modèle Sentence Transformer pour la détection de plagiat
+
+- Intégration de l'authentification JWT avec 3 rôles utilisateur
+
+
+
+## **Projet personnel**, *Développeur Mobile*
+
+Sep 2025 – Fév 2026
+
+- Conception et développement d'une application mobile de suivi d'alimentation
+
+- Interface utilisateur intuitive avec Flutter
+
+- Analyse des aliments via Gemini API
+
+- Intégration d'une base de données NoSQL locale: Hive
+
+
+
+## **Club Informatique de l'IBAM**, *Développeur FullStack*
+
+Juin 2026 – Juin 2026
+
+- Conception, développement et déploiement d'une application mobile de Stockage cloud
+
+- Utilisation de Supabase pour le stockage des données et l'authentification
+
+- Développement d'un back office avec Angular
+
+- Projet déployé et exploitable
 
 
 
@@ -78,77 +132,31 @@ Maitrise de l'environnement linux
 
 
 
-# Expérience
-## **IBAM - Projet académique"**, Développeur FullStack
+# Études
+## **IBAM** -- Ouagadougou
+Oct 2023 – Juin 2026
 
-Avr 2026 – Mai 2026
+  Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises
 
-- Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+- Analyse et conception UML
 
-- Api REST avec FastApi
+- Modélisation des données relationnelles
 
-- Frontend avec Angular
+- Programmation orientée objet Java
 
-- Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
-
-- Utilisation de la librairie Alembic pour le versionning de la base de donnée
-
-- Utilisation du modèle Sentence Transformer pour la détection de plagiat
-
-- Intégration de l'authentification JWT avec 3 rôles utilisateur
+- Virtualisation, DevOps et développement d'applications N-tiers
 
 
 
-## **Projet personnel**, Développeur Mobile
+## **Lycée Provincial Bassy de Ziniaré** -- Ziniaré
+Sep 2020 – Juin 2023
 
-Sep 2025 – Fév 2026
-
-- Conception et développement d'une application mobile de suivi d'alimentation
-
-- Interface utilisateur intuitive avec Flutter
-
-- Analyse des aliments via Gemini API
-
-- Intégration d'une base de données NoSQL locale: Hive
-
-
-
-## **Club Informatique de l'IBAM**, Développeur FullStack
-
-Juin 2026 – Juin 2026
-
-- Conception, développement et déploiement d'une application mobile de Stockage cloud
-
-- Utilisation de Supabase pour le stockage des données et l'authentification
-
-- Développement d'un back office avec Angular
-
-- Projet déployé et exploitable
-
-
-
-## **Yandoama Consulting**, Développeur FullStack
-
-Mai 2026 – Aoû 2026
-
-- Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
-
-- Développement de modules Springboot intégrés à un système préexistant
-
-- Développement d'une interface utilisateur Angular avec dashboard en temps réel
-
-- Maitrise opérationelle du SGBD PostgreSQL
-
-- Intégration de keycloak pour la estion des identifiants
-
-- Utilisation de CheckStyle pour assurer la qualité du code Springboot
-
-- Méthodologie de travail scrum avec des sprints hebdomadaires
+ Baccalauréat Série C
 
 
 
 # Postes de responsabilité
-## **Club Informatique IBAM**, Responsable Relations Extérieures -- Ouagadougou
+## **Club Informatique IBAM**, *Responsable Relations Extérieures* -- Ouagadougou
 
 Nov 2025 – Nov 2026
 
@@ -160,7 +168,7 @@ Nov 2025 – Nov 2026
 
 
 
-## **Club Informatique IBAM**, Adjoint à l'organisation du Hackathon ComeToCode 6e edition -- Ouagadougou
+## **Club Informatique IBAM**, *Adjoint à l'organisation du Hackathon ComeToCode 6e edition* -- Ouagadougou
 
 Juin 2025 – Juin 2025
 

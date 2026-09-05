@@ -2,7 +2,7 @@ locale:
   language: french
 
 design:
-  theme: harvard
+  theme: opal
 
   typography:
     # font_family:
@@ -20,75 +20,24 @@ cv:
   photo: photo.jpeg
   name: Béninwendé Jules ILBOUDO
   location: Ouagadougou
-  email: beninwendeilboudo07@gmail.com
+  email: beninwende07@gmail.com
   phone: +226 65366907
   website: https://jules-dev.onrender.com
   social_networks:
     - network: GitHub
-      username: JulesC836
+      username: JulesC07
     # - network: LinkedIn
     #   username: jules-ilboudo-b4b3633a7
 
   sections:
     Pofile:
-      - "Développeur fullstack | Ingénieur de travaux Informatiques, option génie logiciel "
-
-    Études:
-      - institution: "Lycée Provincial Bassy de Ziniaré"
-        area: "Baccalauréat Série C"
-        start_date: 2020-09
-        end_date: 2023-06
-        location: Ziniaré
-
-      - institution: "IBAM"
-        area: " Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises"
-        start_date: 2023-10
-        end_date: 2026-06
-        location: Ouagadougou
-        highlights:
-          - Analyse et conception UML
-          - Modélisation des données relationnelles
-          - Programmation orientée objet Java
-          - Virtualisation, DevOps et développement d'applications N-tiers
-    
-    Langages de programmation et outils:
-      - label: Langages de programmation
-        details: Java, TypeScript, python, Dart
-      - label: Frameworks
-        details: Springboot, Angular, Flutter,Djago, Fastapi
-      - label: Infrastructure
-        details: Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
-      - label: SGBD
-        details: MariaDB, MongoDB, PostgreSQL
-      - label: Automatisations
-        details: n8n
-    
-    Compétences techniques:
-      - Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
-      - Intégration API avec des applications frontend  Angular
-      - Développement d'applications mobiles cross-platform avec Flutter
-      - Conception et déploiement d'applications conteneurisées avec Docker
-      - Automatisation de processus de déploiement via GitHub Actions
-      - "Architectures logiciels: Microservices, Modulith, Hexagonal"
-      - Automatisation de tâches avec n8n
-      - Maitrise de l'environnement linux
-    
-    Certifications:
-      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
-        highlights:
-          - "[https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6](https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6)"
-
-      - name: "Springboot REST API with Java and Gradle"
-        highlights:
-          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107)"
-
-
+      - "Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | Ingénieur de travaux Informatiques option génie logiciel, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)"
 
     Expérience:
 
       - company: "Yandoama Consulting"
         position: "Consultant Développeur FullStack"
-        start_date: 2026-01
+        start_date: 2026-09
         end_date: present
         highlights:
           - Développement d'API en Java Springboot
@@ -141,6 +90,56 @@ cv:
           - Développement d'un back office avec Angular
           - Projet déployé et exploitable
 
+    
+    Langages de programmation et outils:
+      - label: Langages de programmation
+        details: Java, TypeScript, python, Dart
+      - label: Frameworks
+        details: Springboot, Angular, Flutter,Djago, Fastapi
+      - label: Infrastructure
+        details: Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
+      - label: SGBD
+        details: MariaDB, MongoDB, PostgreSQL
+      - label: Automatisations
+        details: n8n
+    
+    Compétences techniques:
+      - Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
+      - Intégration API avec des applications frontend  Angular
+      - Développement d'applications mobiles cross-platform avec Flutter
+      - Conception et déploiement d'applications conteneurisées avec Docker
+      - Automatisation de processus de déploiement via GitHub Actions
+      - "Architectures logiciels: Microservices, Modulith, Hexagonal"
+      - Automatisation de tâches avec n8n
+      - Maitrise de l'environnement linux
+    
+    Certifications:
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
+        highlights:
+          - "[https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6](https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6)"
+
+      - name: "Springboot REST API with Java and Gradle"
+        highlights:
+          - "[https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107)"
+
+    Études:
+
+      - institution: "IBAM"
+        area: " Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises"
+        start_date: 2023-10
+        end_date: 2026-06
+        location: Ouagadougou
+        highlights:
+          - Analyse et conception UML
+          - Modélisation des données relationnelles
+          - Programmation orientée objet Java
+          - Virtualisation, DevOps et développement d'applications N-tiers
+        
+      - institution: "Lycée Provincial Bassy de Ziniaré"
+        area: "Baccalauréat Série C"
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
 
     Postes de responsabilité:
       - company: "Club Informatique IBAM"
