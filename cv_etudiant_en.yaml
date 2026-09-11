@@ -1,0 +1,100 @@
+locale:
+  language: english
+design:
+  theme: opal
+  typography:
+    font_size:
+      body: 11pt
+    line_spacing: 1.0em
+  links:
+    underline: true
+    show_external_link_icon: true
+cv:
+  photo: photo.jpeg
+  name: Béninwendé Jules ILBOUDO
+  location: Ouagadougou
+  email: beninwende07@gmail.com
+  phone: +226 65366907
+  website: https://jules-dev.onrender.com
+  social_networks:
+    - network: GitHub
+      username: JulesC07
+  sections:
+    Profile:
+      - "MIAGE undergraduate student and full-stack web and mobile developer. Independent work across the entire development cycle, from requirements analysis to deployment; rapid adoption of new technologies."
+    Experience and projects:
+      - company: Yandoama Consulting
+        position: Full-Stack Developer Intern
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - "Development of a Flutter access-control mobile application and its API."
+          - "Built Spring Boot modules for an existing system and an Angular interface with a real-time dashboard."
+          - "Use of PostgreSQL, Liquibqse ans Keycloak while working in weekly Scrum sprints."
+      - company: IBAM - Academic Project
+        position: Full-Stack Developer
+        start_date: 2026-04
+        end_date: 2026-05
+        highlights:
+          - "Independently delivered a document-submission application with plagiarism detection using FastAPI, Angular and PostgreSQL."
+          - "Integrated SQLAlchemy, PGVector, Alembic, Sentence Transformers and JWT authentication with three user roles."
+      - company: Personal Project
+        position: Mobile Developer
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - "Independently designed and built a Flutter mobile application for food tracking."
+          - "Integrated the Gemini API for food analysis and Hive for local data storage."
+      - company: IBAM Computer Club
+        position: Full-Stack Developer
+        start_date: 2026-06
+        end_date: 2026-06
+        highlights:
+          - "Contributed to the design, development and deployment of a cloud-storage mobile application."
+          - "Built the Angular back office and integrated Supabase for authentication and storage."
+    Technical skills:
+      - label: Languages
+        details: Java, TypeScript, Python and Dart.
+      - label: Frameworks
+        details: Spring Boot, Angular, Flutter, Django and FastAPI.
+      - label: Tools and infrastructure
+        details: Docker, GitHub Actions, GitLab, GitHub, Firebase, Supabase and n8n.
+      - label: Databases
+        details: PostgreSQL, MariaDB, MongoDB and Hive.
+      - label: Practices
+        details: REST APIs, modular and hexagonal architectures, Linux and deployment automation.
+    Education:
+      - institution: IBAM
+        area: Professional Bachelor's degree in Management Information Systems
+        start_date: 2023-10
+        end_date: 2026-06
+        location: Ouagadougou
+        highlights:
+          - "Coursework covered UML analysis, relational data modelling, object-oriented Java, virtualization, DevOps and n-tier architectures."
+      - institution: Lycée Provincial Bassy de Ziniaré
+        area: Scientific Baccalaureate, Series C
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
+    Leadership:
+      - company: IBAM Computer Club
+        position: External Relations Officer
+        start_date: 2025-11
+        end_date: 2026-11
+        location: Ouagadougou
+        highlights:
+          - "Partnership development with IT companies and event coordination with external speakers with IT companies and coordinate events with external speakers."
+      - company: IBAM Computer Club
+        position: Assistant Organizer, ComeToCode Hackathon
+        start_date: 2025-06
+        end_date: 2025-06
+        location: Ouagadougou
+        highlights:
+          - "Helped plan a 48-hour hackathon for more than 50 participants and mentored the teams."
+    Certifications:
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
+        highlights:
+          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+      - name: Spring Boot REST API with Java and Gradle
+        highlights:
+          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"

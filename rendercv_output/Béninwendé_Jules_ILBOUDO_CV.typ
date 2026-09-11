@@ -32,7 +32,7 @@
   typography-font-family-headline: "Lato",
   typography-font-family-connections: "Lato",
   typography-font-family-section-titles: "Lato",
-  typography-font-size-body: 12pt,
+  typography-font-size-body: 11pt,
   typography-font-size-name: 26pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 9pt,
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 4,
+    day: 11,
   ),
 )
 
@@ -100,52 +100,27 @@
   [#link("mailto:beninwende07@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[beninwende07\@gmail.com]]],
   [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[65 36 69 07]]],
   [#link("https://jules-dev.onrender.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[jules-dev.onrender.com]]],
-  [#link("https://github.com/JulesC836", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC836]]],
+  [#link("https://github.com/JulesC07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC07]]],
 )
   ]
 )
 
 
-== Pofile
+== Profil
 
-Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | Ingénieur de travaux Informatiques option génie logiciel, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)
+Étudiant en licence professionnelle MIAGE et développeur full-stack web et mobile. Autonome, je conçois et réalise des applications de bout en bout, depuis l'analyse du besoin jusqu'au déploiement, tout en continuant à apprendre rapidement de nouvelles technologies.
 
-== Expérience
-
-#regular-entry(
-  [
-    #strong[Yandoama Consulting], #emph[Consultant Développeur FullStack]
-
-    - Développement d'API en Java Springboot
-
-    - Développement d'applications Web en Angular
-
-    - Développement d'applications mobiles avec Flutter
-
-  ],
-  [
-    Sep 2026 – présent
-
-  ],
-)
+== Expérience et projets
 
 #regular-entry(
   [
-    #strong[Yandoama Consulting], #emph[Stagiaire Développeur FullStack]
+    #strong[Yandoama Consulting], #emph[Stagiaire développeur full-stack]
 
-    - Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+    - Développer une application mobile de contrôle d'accès avec Flutter et son API.
 
-    - Développement de modules Springboot intégrés à un système préexistant
+    - Concevoir des modules Spring Boot intégrés à un système existant ainsi qu'une interface Angular avec tableau de bord en temps réel.
 
-    - Développement d'une interface utilisateur Angular avec dashboard en temps réel
-
-    - Maitrise opérationelle du SGBD PostgreSQL
-
-    - Intégration de keycloak pour la estion des identifiants
-
-    - Utilisation de CheckStyle pour assurer la qualité du code Springboot
-
-    - Méthodologie de travail scrum avec des sprints hebdomadaires
+    - Utiliser PostgreSQL, Keycloak et Checkstyle, et j'ai travaillé selon une organisation Scrum avec des sprints hebdomadaires.
 
   ],
   [
@@ -156,21 +131,11 @@ Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | 
 
 #regular-entry(
   [
-    #strong[IBAM - Projet académique\"], #emph[Développeur FullStack]
+    #strong[IBAM - Projet académique], #emph[Développeur full-stack]
 
-    - Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+    - Réaliser de manière autonome une application de dépôt documentaire avec détection de plagiat, en utilisant FastAPI, Angular et PostgreSQL.
 
-    - Api REST avec FastApi
-
-    - Frontend avec Angular
-
-    - Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
-
-    - Utilisation de la librairie Alembic pour le versionning de la base de donnée
-
-    - Utilisation du modèle Sentence Transformer pour la détection de plagiat
-
-    - Intégration de l'authentification JWT avec 3 rôles utilisateur
+    - Mettre en place SQLAlchemy, PGVector, Alembic et Sentence Transformers, ainsi qu'une authentification JWT avec trois rôles utilisateur.
 
   ],
   [
@@ -181,15 +146,11 @@ Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | 
 
 #regular-entry(
   [
-    #strong[Projet personnel], #emph[Développeur Mobile]
+    #strong[Projet personnel], #emph[Développeur mobile]
 
-    - Conception et développement d'une application mobile de suivi d'alimentation
+    - Concevoir et développé de manière autonome une application mobile de suivi de l'alimentation avec Flutter.
 
-    - Interface utilisateur intuitive avec Flutter
-
-    - Analyse des aliments via Gemini API
-
-    - Intégration d'une base de données NoSQL locale: Hive
+    - Intégrer l'API Gemini pour analyser les aliments et Hive pour le stockage local des données.
 
   ],
   [
@@ -200,15 +161,11 @@ Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | 
 
 #regular-entry(
   [
-    #strong[Club Informatique de l'IBAM], #emph[Développeur FullStack]
+    #strong[Club Informatique de l'IBAM], #emph[Développeur full-stack]
 
-    - Conception, développement et déploiement d'une application mobile de Stockage cloud
+    - Contribuer à la conception, au développement et au déploiement d'une application mobile de stockage cloud.
 
-    - Utilisation de Supabase pour le stockage des données et l'authentification
-
-    - Développement d'un back office avec Angular
-
-    - Projet déployé et exploitable
+    - Développer le back-office Angular et intégré Supabase pour l'authentification et le stockage.
 
   ],
   [
@@ -217,75 +174,27 @@ Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | 
   ],
 )
 
-== Langages de programmation et outils
-
-#strong[Langages de programmation:] Java, TypeScript, python, Dart
-
-#strong[Frameworks:] Springboot, Angular, Flutter,Djago, Fastapi
-
-#strong[Infrastructure:] Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
-
-#strong[SGBD:] MariaDB, MongoDB, PostgreSQL
-
-#strong[Automatisations:] n8n
-
 == Compétences techniques
 
-Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
+#strong[Langages:] Java, TypeScript, Python et Dart.
 
-Intégration API avec des applications frontend  Angular
+#strong[Frameworks:] Spring Boot, Angular, Flutter, Django et FastAPI.
 
-Développement d'applications mobiles cross-platform avec Flutter
+#strong[Outils et infrastructure:] Docker, GitHub Actions, GitLab, GitHub, Firebase, Supabase et n8n.
 
-Conception et déploiement d'applications conteneurisées avec Docker
+#strong[Bases de données:] PostgreSQL, MariaDB, MongoDB et Hive.
 
-Automatisation de processus de déploiement via GitHub Actions
+#strong[Pratiques:] API REST, architectures modulaires et hexagonales, environnement Linux et automatisation du déploiement.
 
-Architectures logiciels: Microservices, Modulith, Hexagonal
-
-Automatisation de tâches avec n8n
-
-Maitrise de l'environnement linux
-
-== Certifications
-
-#regular-entry(
-  [
-    #strong[Bash Scripting & Shell Automation: The Linux Architect Guide]
-
-    - #link("https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6")[https:\/\/www.udemy.com\/certificate\/UC-b5876838-b974-47bf-8497-4616b97077f6]
-
-  ],
-  [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Springboot REST API with Java and Gradle]
-
-    - #link("https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107")[https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/course-paths\/107]
-
-  ],
-  [
-  ],
-)
-
-== Études
+== Formation
 
 #education-entry(
   [
     #strong[IBAM] -- Ouagadougou
 
-    Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises
+    Licence professionnelle en Méthodes informatiques appliquées à la gestion des entreprises
 
-    - Analyse et conception UML
-
-    - Modélisation des données relationnelles
-
-    - Programmation orientée objet Java
-
-    - Virtualisation, DevOps et développement d'applications N-tiers
+    - Étudier l'analyse UML, la modélisation relationnelle, la programmation orientée objet en Java, la virtualisation, le DevOps et les architectures n-tiers.
 
   ],
   [
@@ -298,7 +207,7 @@ Maitrise de l'environnement linux
   [
     #strong[Lycée Provincial Bassy de Ziniaré] -- Ziniaré
 
-    Baccalauréat Série C
+    Baccalauréat série C
 
   ],
   [
@@ -307,17 +216,13 @@ Maitrise de l'environnement linux
   ],
 )
 
-== Postes de responsabilité
+== Engagement
 
 #regular-entry(
   [
-    #strong[Club Informatique IBAM], #emph[Responsable Relations Extérieures] -- Ouagadougou
+    #strong[Club Informatique IBAM], #emph[Responsable des relations extérieures] -- Ouagadougou
 
-    - Développement et maintien des partenariats avec les entreprises du secteur IT
-
-    - Coordination des événements et formations avec des intervenants externes
-
-    - Représentation du club lors des rencontres inter-universitaires
+    - Développer des partenariats avec des entreprises du secteur informatique et je coordonne des événements avec des intervenants externes.
 
   ],
   [
@@ -328,13 +233,9 @@ Maitrise de l'environnement linux
 
 #regular-entry(
   [
-    #strong[Club Informatique IBAM], #emph[Adjoint à l'organisation du Hackathon ComeToCode 6e edition] -- Ouagadougou
+    #strong[Club Informatique IBAM], #emph[Adjoint à l'organisation du hackathon ComeToCode] -- Ouagadougou
 
-    - Planification et coordination d'un hackathon de 48h avec plus de 50 participants
-
-    - Gestion de la logistique et des partenariats sponsors
-
-    - Animation et encadrement des équipes participantes
+    - Participer à la planification d'un hackathon de 48 heures réunissant plus de 50 participants et j'ai encadré les équipes.
 
   ],
   [
@@ -343,12 +244,26 @@ Maitrise de l'environnement linux
   ],
 )
 
-== Qualités
+== Certifications
 
-#strong[Apprentissage continu:] Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+#regular-entry(
+  [
+    #strong[Bash Scripting & Shell Automation: The Linux Architect Guide]
 
-#strong[Résolution de problèmes:] Capacité à identifier et résoudre les défis techniques
+    - https:\/\/www.udemy.com\/certificate\/UC-b5876838-b974-47bf-8497-4616b97077f6
 
-#strong[Autonomie:] Capable de gérer des projets de bout en bout avec un minimum de supervision
+  ],
+  [
+  ],
+)
 
-#strong[Esprit d'équipe:] Collaboration active et partage de connaissances avec les membres de l'équipe
+#regular-entry(
+  [
+    #strong[Spring Boot REST API with Java and Gradle]
+
+    - https:\/\/codesignal.com\/learn\/certificates\/cmkcv8b0r001ul505vdmdndiz\/course-paths\/107
+
+  ],
+  [
+  ],
+)

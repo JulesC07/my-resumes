@@ -1,0 +1,101 @@
+locale:
+  language: english
+design:
+  theme: opal
+  typography:
+    font_size:
+      body: 11pt
+    line_spacing: 1.0em
+  links:
+    underline: true
+    show_external_link_icon: true
+cv:
+  photo: photo.jpeg
+  name: Béninwendé Jules ILBOUDO
+  location: Ouagadougou
+  email: beninwende07@gmail.com
+  phone: +226 65366907
+  website: https://jules-dev.onrender.com
+  social_networks:
+    - network: GitHub
+      username: JulesC07
+  sections:
+    Professional Profile:
+      - "Full-stack web and mobile developer specializing in Java Spring Boot, Angular and Flutter. Independent and results-oriented, End-to-end ownership of features, from technical design to deployment, with a strong focus on quality and maintainability."
+    Professional Experience:
+      - company: Yandoama Consulting
+        position: Full-Stack Developer Consultant
+        start_date: 2026-09
+        end_date: present
+        highlights:
+          - "Design and develop Java Spring Boot APIs, Angular applications and Flutter mobile applications while independently owning technical deliverables."
+          - "Dork with product teams to turn business requirements into reliable, production-ready solutions."
+      - company: Yandoama Consulting
+        position: Full-Stack Developer Intern
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - "Delivered a Flutter access-control mobile application integrated with an API."
+          - "Duilt Spring Boot modules for an existing system and an Angular interface with a real-time dashboard."
+          - "Integrated PostgreSQL, Keycloak and Checkstyle within a Scrum environment."
+      - company: IBAM - Academic Project
+        position: Full-Stack Developer
+        start_date: 2026-04
+        end_date: 2026-05
+        highlights:
+          - "Designed and delivered a document-submission platform with plagiarism detection, from its FastAPI backend to its Angular interface."
+          - "Implemented PostgreSQL, SQLAlchemy, PGVector, Alembic, Sentence Transformers and multi-role JWT authentication."
+      - company: Personal Project
+        position: Mobile Developer
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - "Independently led the design, development and integration of a Flutter food-tracking application."
+          - "Integrated Gemini for food analysis and Hive for local persistence."
+      - company: IBAM Computer Club
+        position: Full-Stack Developer
+        start_date: 2026-06
+        end_date: 2026-06
+        highlights:
+          - "Developed and deployed a cloud-storage mobile application and its Angular back office."
+          - "Integrated Supabase for authentication and data storage."
+    Skills:
+      - label: Development
+        details: Java, Spring Boot, TypeScript, Angular, Python, FastAPI, Django, Dart and Flutter.
+      - label: Architecture and quality
+        details: REST APIs, microservices, modular and hexagonal architectures, code quality and review practices.
+      - label: Data and infrastructure
+        details: PostgreSQL, MariaDB, MongoDB, Docker, GitHub Actions, GitLab, Firebase, Supabase and Linux.
+      - label: Automation
+        details: n8n and deployment-process automation.
+    Education:
+      - institution: IBAM
+        area: Professional Bachelor's degree in Management Information Systems
+        start_date: 2023-10
+        end_date: 2026-06
+        location: Ouagadougou
+      - institution: Lycée Provincial Bassy de Ziniaré
+        area: Scientific Baccalaureate, Series C
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
+    Leadership:
+      - company: IBAM Computer Club
+        position: External Relations Officer
+        start_date: 2025-11
+        end_date: 2026-11
+        highlights:
+          - "Build partnerships with IT companies and represent the club at inter-university events."
+      - company: IBAM Computer Club
+        position: Assistant Organizer, ComeToCode Hackathon
+        start_date: 2025-06
+        end_date: 2025-06
+        highlights:
+          - "Coordinated logistics and team mentoring for a 48-hour hackathon with more than 50 participants."
+    Certifications:
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
+        highlights:
+          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+      - name: Spring Boot REST API with Java and Gradle
+        highlights:
+          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"

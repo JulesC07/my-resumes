@@ -1,0 +1,102 @@
+locale:
+  language: french
+design:
+  theme: opal
+  typography:
+    font_size:
+      body: 11pt
+    line_spacing: 1.0em
+  links:
+    underline: true
+    show_external_link_icon: true
+cv:
+  photo: photo.jpeg
+  name: Béninwendé Jules ILBOUDO
+  location: Ouagadougou
+  email: beninwende07@gmail.com
+  phone: +226 65366907
+  website: https://jules-dev.onrender.com
+  social_networks:
+    - network: GitHub
+      username: JulesC07
+  sections:
+    Profil professionnel:
+      - "Développeur full-stack web et mobile, spécialisé en Java Spring Boot, Angular et Flutter. Autonome et orienté résultats, je prends en charge des fonctionnalités de bout en bout, de la conception technique au déploiement, avec une attention constante portée à la qualité et à la maintenabilité."
+    Expérience professionnelle:
+      - company: Yandoama Consulting
+        position: Consultant développeur full-stack
+        start_date: 2026-09
+        end_date: present
+        highlights:
+          - "Concevoir et développer des API Java Spring Boot, des applications Angular et des applications mobiles Flutter en prenant en charge les sujets de manière autonome."
+          - "Collaborer avec les équipes produit pour transformer les besoins métier en solutions fiables et livrables."
+      - company: Yandoama Consulting
+        position: Stagiaire développeur full-stack
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - "Livrer une application mobile de contrôle d'accès avec Flutter, intégrée à une API."
+          - "Développer des modules Spring Boot dans un système existant et une interface Angular dotée d'un tableau de bord en temps réel."
+          - "Assurer l'intégration de PostgreSQL, liquibase et Keycloak."
+          - "Travailler dans un cadre Scrum."
+      - company: IBAM - Projet académique
+        position: Développeur full-stack
+        start_date: 2026-04
+        end_date: 2026-05
+        highlights:
+          - "Concevoir et livrer une plateforme de dépôt documentaire avec détection de plagiat, de l'API FastAPI à l'interface Angular."
+          - "Mettre en œuvre PostgreSQL, SQLAlchemy, PGVector, Alembic, Sentence Transformers et une authentification JWT multi-rôles."
+      - company: Projet personnel
+        position: Développeur mobile
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - "Mener de manière autonome la conception, le développement et l'intégration d'une application Flutter de suivi de l'alimentation."
+          - "Intégrer Gemini pour l'analyse des aliments et Hive pour la persistance locale."
+      - company: Club Informatique de l'IBAM
+        position: Développeur full-stack
+        start_date: 2026-06
+        end_date: 2026-06
+        highlights:
+          - "Développer et déployé une application mobile de stockage cloud ainsi que son back-office Angular."
+          - "Intégrer Supabase pour l'authentification et le stockage des données."
+    Compétences:
+      - label: Développement
+        details: Java, Spring Boot, TypeScript, Angular, Python, FastAPI, Django, Dart et Flutter.
+      - label: Architecture et qualité
+        details: API REST, architectures microservices, modulith et hexagonale, revue et qualité du code.
+      - label: Données et infrastructure
+        details: PostgreSQL, MariaDB, MongoDB, Docker, GitHub Actions, GitLab, Firebase, Supabase et Linux.
+      - label: Automatisation
+        details: n8n et automatisation des processus de déploiement.
+    Formation:
+      - institution: IBAM
+        area: Licence professionnelle en Méthodes informatiques appliquées à la gestion des entreprises
+        start_date: 2023-10
+        end_date: 2026-06
+        location: Ouagadougou
+      - institution: Lycée Provincial Bassy de Ziniaré
+        area: Baccalauréat série C
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
+    Responsabilités:
+      - company: Club Informatique IBAM
+        position: Responsable des relations extérieures
+        start_date: 2024-11
+        end_date: 2025-11
+        highlights:
+          - "Développer des partenariats avec les entreprises informatiques et représenter le club lors de rencontres interuniversitaires."
+      - company: Club Informatique IBAM
+        position: Adjoint à l'organisation du hackathon ComeToCode
+        start_date: 2025-06
+        end_date: 2025-06
+        highlights:
+          - "Coordonner la logistique et l'encadrement d'un hackathon de 48 heures réunissant plus de 50 participants."
+    Certifications:
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
+        highlights:
+          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+      - name: Spring Boot REST API with Java and Gradle
+        highlights:
+          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"

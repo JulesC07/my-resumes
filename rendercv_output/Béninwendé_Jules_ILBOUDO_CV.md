@@ -4,187 +4,109 @@
 - Email: [beninwende07@gmail.com](mailto:beninwende07@gmail.com)
 - Location: Ouagadougou
 - Website: [jules-dev.onrender.com](https://jules-dev.onrender.com/)
-- GitHub: [JulesC836](https://github.com/JulesC836)
+- GitHub: [JulesC07](https://github.com/JulesC07)
 
 
-# Pofile
-Développeur fullstack Web et Mobile | Développeur Java Springboot Certifié | Ingénieur de travaux Informatiques option génie logiciel, spécialité MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)
+# Profil
+Étudiant en licence professionnelle MIAGE et développeur full-stack web et mobile. Autonome, je conçois et réalise des applications de bout en bout, depuis l'analyse du besoin jusqu'au déploiement, tout en continuant à apprendre rapidement de nouvelles technologies.
 
-# Expérience
-## **Yandoama Consulting**, *Consultant Développeur FullStack*
-
-Sep 2026 – présent
-
-- Développement d'API en Java Springboot
-
-- Développement d'applications Web en Angular
-
-- Développement d'applications mobiles avec Flutter
-
-
-
-## **Yandoama Consulting**, *Stagiaire Développeur FullStack*
+# Expérience et projets
+## **Yandoama Consulting**, *Stagiaire développeur full-stack*
 
 Mai 2026 – Aoû 2026
 
-- Développement d'une application mobile de contrôle d'accès avec flutter intégré à une API
+- Développer une application mobile de contrôle d'accès avec Flutter et son API.
 
-- Développement de modules Springboot intégrés à un système préexistant
+- Concevoir des modules Spring Boot intégrés à un système existant ainsi qu'une interface Angular avec tableau de bord en temps réel.
 
-- Développement d'une interface utilisateur Angular avec dashboard en temps réel
-
-- Maitrise opérationelle du SGBD PostgreSQL
-
-- Intégration de keycloak pour la estion des identifiants
-
-- Utilisation de CheckStyle pour assurer la qualité du code Springboot
-
-- Méthodologie de travail scrum avec des sprints hebdomadaires
+- Utiliser PostgreSQL, Keycloak et Checkstyle, et j'ai travaillé selon une organisation Scrum avec des sprints hebdomadaires.
 
 
 
-## **IBAM - Projet académique"**, *Développeur FullStack*
+## **IBAM - Projet académique**, *Développeur full-stack*
 
 Avr 2026 – Mai 2026
 
-- Développement d'une application fullstack de dépot documentaire avec détection de plagiat
+- Réaliser de manière autonome une application de dépôt documentaire avec détection de plagiat, en utilisant FastAPI, Angular et PostgreSQL.
 
-- Api REST avec FastApi
-
-- Frontend avec Angular
-
-- Utilisation du SGBD PostgreSQL avec l'ORM SQLAlchemy et l'extension PGVector pour la vectorisation des documents
-
-- Utilisation de la librairie Alembic pour le versionning de la base de donnée
-
-- Utilisation du modèle Sentence Transformer pour la détection de plagiat
-
-- Intégration de l'authentification JWT avec 3 rôles utilisateur
+- Mettre en place SQLAlchemy, PGVector, Alembic et Sentence Transformers, ainsi qu'une authentification JWT avec trois rôles utilisateur.
 
 
 
-## **Projet personnel**, *Développeur Mobile*
+## **Projet personnel**, *Développeur mobile*
 
 Sep 2025 – Fév 2026
 
-- Conception et développement d'une application mobile de suivi d'alimentation
+- Concevoir et développé de manière autonome une application mobile de suivi de l'alimentation avec Flutter.
 
-- Interface utilisateur intuitive avec Flutter
-
-- Analyse des aliments via Gemini API
-
-- Intégration d'une base de données NoSQL locale: Hive
+- Intégrer l'API Gemini pour analyser les aliments et Hive pour le stockage local des données.
 
 
 
-## **Club Informatique de l'IBAM**, *Développeur FullStack*
+## **Club Informatique de l'IBAM**, *Développeur full-stack*
 
 Juin 2026 – Juin 2026
 
-- Conception, développement et déploiement d'une application mobile de Stockage cloud
+- Contribuer à la conception, au développement et au déploiement d'une application mobile de stockage cloud.
 
-- Utilisation de Supabase pour le stockage des données et l'authentification
-
-- Développement d'un back office avec Angular
-
-- Projet déployé et exploitable
+- Développer le back-office Angular et intégré Supabase pour l'authentification et le stockage.
 
 
-
-# Langages de programmation et outils
-**Langages de programmation:** Java, TypeScript, python, Dart
-
-**Frameworks:** Springboot, Angular, Flutter,Djago, Fastapi
-
-**Infrastructure:** Docker, Gitlab, GitHub ,GitHub Actions, Firebase, Supabase
-
-**SGBD:** MariaDB, MongoDB, PostgreSQL
-
-**Automatisations:** n8n
 
 # Compétences techniques
-Développement d'API REST avec Springboot, Fastapi et DJango REST Framework
+**Langages:** Java, TypeScript, Python et Dart.
 
-Intégration API avec des applications frontend  Angular
+**Frameworks:** Spring Boot, Angular, Flutter, Django et FastAPI.
 
-Développement d'applications mobiles cross-platform avec Flutter
+**Outils et infrastructure:** Docker, GitHub Actions, GitLab, GitHub, Firebase, Supabase et n8n.
 
-Conception et déploiement d'applications conteneurisées avec Docker
+**Bases de données:** PostgreSQL, MariaDB, MongoDB et Hive.
 
-Automatisation de processus de déploiement via GitHub Actions
+**Pratiques:** API REST, architectures modulaires et hexagonales, environnement Linux et automatisation du déploiement.
 
-Architectures logiciels: Microservices, Modulith, Hexagonal
-
-Automatisation de tâches avec n8n
-
-Maitrise de l'environnement linux
-
-# Certifications
-## **Bash Scripting & Shell Automation: The Linux Architect Guide**
-
-- [https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6](https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6)
-
-
-
-## **Springboot REST API with Java and Gradle**
-
-- [https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107](https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107)
-
-
-
-# Études
+# Formation
 ## **IBAM** -- Ouagadougou
 Oct 2023 – Juin 2026
 
-  Licence Professionelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises
+ Licence professionnelle en Méthodes informatiques appliquées à la gestion des entreprises
 
-- Analyse et conception UML
-
-- Modélisation des données relationnelles
-
-- Programmation orientée objet Java
-
-- Virtualisation, DevOps et développement d'applications N-tiers
+- Étudier l'analyse UML, la modélisation relationnelle, la programmation orientée objet en Java, la virtualisation, le DevOps et les architectures n-tiers.
 
 
 
 ## **Lycée Provincial Bassy de Ziniaré** -- Ziniaré
 Sep 2020 – Juin 2023
 
- Baccalauréat Série C
+ Baccalauréat série C
 
 
 
-# Postes de responsabilité
-## **Club Informatique IBAM**, *Responsable Relations Extérieures* -- Ouagadougou
+# Engagement
+## **Club Informatique IBAM**, *Responsable des relations extérieures* -- Ouagadougou
 
 Nov 2025 – Nov 2026
 
-- Développement et maintien des partenariats avec les entreprises du secteur IT
-
-- Coordination des événements et formations avec des intervenants externes
-
-- Représentation du club lors des rencontres inter-universitaires
+- Développer des partenariats avec des entreprises du secteur informatique et je coordonne des événements avec des intervenants externes.
 
 
 
-## **Club Informatique IBAM**, *Adjoint à l'organisation du Hackathon ComeToCode 6e edition* -- Ouagadougou
+## **Club Informatique IBAM**, *Adjoint à l'organisation du hackathon ComeToCode* -- Ouagadougou
 
 Juin 2025 – Juin 2025
 
-- Planification et coordination d'un hackathon de 48h avec plus de 50 participants
-
-- Gestion de la logistique et des partenariats sponsors
-
-- Animation et encadrement des équipes participantes
+- Participer à la planification d'un hackathon de 48 heures réunissant plus de 50 participants et j'ai encadré les équipes.
 
 
 
-# Qualités
-**Apprentissage continu:** Curiosité naturelle et capacité à s'adapter rapidement aux nouvelles technologies et méthodologies
+# Certifications
+## **Bash Scripting & Shell Automation: The Linux Architect Guide**
 
-**Résolution de problèmes:** Capacité à identifier et résoudre les défis techniques
+- https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6
 
-**Autonomie:** Capable de gérer des projets de bout en bout avec un minimum de supervision
 
-**Esprit d'équipe:** Collaboration active et partage de connaissances avec les membres de l'équipe
+
+## **Spring Boot REST API with Java and Gradle**
+
+- https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107
+
+

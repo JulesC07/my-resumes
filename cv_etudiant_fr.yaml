@@ -1,0 +1,100 @@
+locale:
+  language: french
+design:
+  theme: opal
+  typography:
+    font_size:
+      body: 11pt
+    line_spacing: 1.0em
+  links:
+    underline: true
+    show_external_link_icon: true
+cv:
+  photo: photo.jpeg
+  name: Béninwendé Jules ILBOUDO
+  location: Ouagadougou
+  email: beninwende07@gmail.com
+  phone: +226 65366907
+  website: https://jules-dev.onrender.com
+  social_networks:
+    - network: GitHub
+      username: JulesC07
+  sections:
+    Profil:
+      - "Étudiant en licence professionnelle MIAGE et développeur full-stack web et mobile. Autonome, je conçois et réalise des applications de bout en bout, depuis l'analyse du besoin jusqu'au déploiement, tout en continuant à apprendre rapidement de nouvelles technologies."
+    Expérience et projets:
+      - company: Yandoama Consulting
+        position: Stagiaire développeur full-stack
+        start_date: 2026-05
+        end_date: 2026-08
+        highlights:
+          - "Développer une application mobile de contrôle d'accès avec Flutter et son API."
+          - "Concevoir des modules Spring Boot intégrés à un système existant ainsi qu'une interface Angular avec tableau de bord en temps réel."
+          - "Utiliser PostgreSQL, Keycloak et Checkstyle, travailler selon une organisation Scrum avec des sprints hebdomadaires."
+      - company: IBAM - Projet académique
+        position: Développeur full-stack
+        start_date: 2026-04
+        end_date: 2026-05
+        highlights:
+          - "Réaliser de manière autonome une application de dépôt documentaire avec détection de plagiat, en utilisant FastAPI, Angular et PostgreSQL."
+          - "Utiliser SQLAlchemy, PGVector, Alembic et Sentence Transformers, ainsi qu'une authentification JWT avec trois rôles utilisateur."
+      - company: Projet personnel
+        position: Développeur mobile
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - "Concevoir et développé de manière autonome une application mobile de suivi de l'alimentation avec Flutter."
+          - "Intégrer l'API Gemini pour analyser les aliments et Hive pour le stockage local des données."
+      - company: Club Informatique de l'IBAM
+        position: Développeur full-stack
+        start_date: 2026-06
+        end_date: 2026-06
+        highlights:
+          - "Contribuer à la conception, au développement et au déploiement d'une application mobile de stockage cloud."
+          - "Développer le back-office Angular et intégré Supabase pour l'authentification et le stockage."
+    Compétences techniques:
+      - label: Langages
+        details: Java, TypeScript, Python et Dart.
+      - label: Frameworks
+        details: Spring Boot, Angular, Flutter, Django et FastAPI.
+      - label: Outils et infrastructure
+        details: Docker, GitHub Actions, GitLab, GitHub, Firebase, Supabase et n8n.
+      - label: Bases de données
+        details: PostgreSQL, MariaDB, MongoDB et Hive.
+      - label: Pratiques
+        details: API REST, architectures modulaires et hexagonales, environnement Linux et automatisation du déploiement.
+    Formation:
+      - institution: IBAM
+        area: Licence professionnelle en Méthodes informatiques appliquées à la gestion des entreprises
+        start_date: 2023-10
+        end_date: 2026-06
+        location: Ouagadougou
+        highlights:
+          - "Étudier l'analyse UML, la modélisation relationnelle, la programmation orientée objet en Java, la virtualisation, le DevOps et les architectures n-tiers."
+      - institution: Lycée Provincial Bassy de Ziniaré
+        area: Baccalauréat série C
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Ziniaré
+    Engagement:
+      - company: Club Informatique IBAM
+        position: Responsable des relations extérieures
+        start_date: 2025-11
+        end_date: 2026-11
+        location: Ouagadougou
+        highlights:
+          - "Développer des partenariats avec des entreprises du secteur informatique et coordonner des événements avec des intervenants externes."
+      - company: Club Informatique IBAM
+        position: Adjoint à l'organisation du hackathon ComeToCode
+        start_date: 2025-06
+        end_date: 2025-06
+        location: Ouagadougou
+        highlights:
+          - "Participer à la planification d'un hackathon de 48 heures réunissant plus de 50 participants et encadrer les équipes."
+    Certifications:
+      - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
+        highlights:
+          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+      - name: Spring Boot REST API with Java and Gradle
+        highlights:
+          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"
