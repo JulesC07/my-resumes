@@ -12,91 +12,95 @@ design:
 cv:
   photo: photo.jpeg
   name: Béninwendé Jules ILBOUDO
-  location: Ouagadougou
+  location: Ouagadougou, Burkina Faso
   email: beninwende07@gmail.com
   phone: +226 65366907
   website: https://jules-dev.onrender.com
   social_networks:
     - network: GitHub
       username: JulesC07
+    - network: LinkedIn
+      username: jules-ilboudo-b4b3633a7
   sections:
     Profil professionnel:
-      - "Développeur full-stack web et mobile, spécialisé en Java Spring Boot, Angular et Flutter. Autonome et orienté résultats, je prends en charge des fonctionnalités de bout en bout, de la conception technique au déploiement, avec une attention constante portée à la qualité et à la maintenabilité."
+      - "Développeur full-stack web et mobile spécialisé dans les écosystèmes Java Spring Boot, Angular et Flutter. Expérimenté dans la conception d'architectures robustes Microservices et la mise en place de fonctionnalités critiques de bout en bout en boîte d'ingénierie logicielle."
     Expérience professionnelle:
       - company: Yandoama Consulting
-        position: Consultant développeur full-stack
+        position: Consultant Développeur Full-Stack
         start_date: 2026-09
         end_date: present
         highlights:
-          - "Concevoir et développer des API Java Spring Boot, des applications Angular et des applications mobiles Flutter en prenant en charge les sujets de manière autonome."
-          - "Collaborer avec les équipes produit pour transformer les besoins métier en solutions fiables et livrables."
+          - "Intervenir en tant que consultant full-stack sur des projets clients critiques dans le cadre de prestations d'ingénierie logicielle."
+          - "Concevoir et déployer des API REST transactionnelles avec Java Spring Boot, associées à des interfaces modulaires Angular 17+."
+          - "Concevoir des architectures applicatives maintenables Microservices maximisant l'isolation des responsabilités et facilitant les évolutions métier."
       - company: Yandoama Consulting
-        position: Stagiaire développeur full-stack
+        position: Stagiaire Développeur Full-Stack
         start_date: 2026-05
         end_date: 2026-08
         highlights:
-          - "Livrer une application mobile de contrôle d'accès avec Flutter, intégrée à une API."
-          - "Développer des modules Spring Boot dans un système existant et une interface Angular dotée d'un tableau de bord en temps réel."
-          - "Assurer l'intégration de PostgreSQL, liquibase et Keycloak."
-          - "Travailler dans un cadre Scrum."
+          - "Conception et livraison d'une application mobile de contrôle d'accès événementiel sous Flutter, sécurisée par Keycloak (contrôle en <1s par QR code)."
+          - "Développement de modules Spring Boot interconnectés à un tableau de bord Angular avec notifications en temps réel."
+          - "Mise en place de PostgreSQL, Liquibase pour la migration de schéma et intégration Redis Streams pour la gestion d'événements."
+          - "Application rigoureuse de la méthode agile Scrum (sprints de 2 semaines, revues et démos)."
       - company: IBAM - Projet académique
-        position: Développeur full-stack
+        position: Développeur Full-Stack (Projet de fin d'études)
         start_date: 2026-04
         end_date: 2026-05
         highlights:
-          - "Concevoir et livrer une plateforme de dépôt documentaire avec détection de plagiat, de l'API FastAPI à l'interface Angular."
-          - "Mettre en œuvre PostgreSQL, SQLAlchemy, PGVector, Alembic, Sentence Transformers et une authentification JWT multi-rôles."
+          - "Conception et réalisation d'une plateforme de dépôt documentaire avec moteur de recherche sémantique et détection de plagiat."
+          - "Développement de l'API FastAPI intégrée à PostgreSQL, PGVector et SentenceTransformers pour le calcul de similarité vectorielle."
+          - "Implémentation d'une interface Angular dynamique et sécurisée par authentification JWT multi-rôles."
       - company: Projet personnel
-        position: Développeur mobile
+        position: Développeur Mobile
         start_date: 2025-09
         end_date: 2026-02
         highlights:
-          - "Mener de manière autonome la conception, le développement et l'intégration d'une application Flutter de suivi de l'alimentation."
-          - "Intégrer Gemini pour l'analyse des aliments et Hive pour la persistance locale."
+          - "Développement autonome d'une application Flutter d'analyse nutritionnelle et de suivi d'alimentation."
+          - "Intégration de l'API multimodal Gemini pour l'identification visuelle des repas et de Hive pour le stockage local hors-ligne."
       - company: Club Informatique de l'IBAM
-        position: Développeur full-stack
+        position: Développeur Full-Stack
         start_date: 2026-06
         end_date: 2026-06
         highlights:
-          - "Développer et déployé une application mobile de stockage cloud ainsi que son back-office Angular."
-          - "Intégrer Supabase pour l'authentification et le stockage des données."
+          - "Développement et déploiement d'une application mobile de stockage cloud sécurisé avec un back-office d'administration sous Angular."
+          - "Intégration de Supabase pour la gestion de l'authentification et des politiques d'accès aux fichiers (RLS)."
     Compétences:
-      - label: Développement
-        details: Java, Spring Boot, TypeScript, Angular, Python, FastAPI, Django, Dart et Flutter.
-      - label: Architecture et qualité
-        details: API REST, architectures microservices, modulith et hexagonale, revue et qualité du code.
-      - label: Données et infrastructure
-        details: PostgreSQL, MariaDB, MongoDB, Docker, GitHub Actions, GitLab, Firebase, Supabase et Linux.
-      - label: Automatisation
-        details: n8n et automatisation des processus de déploiement.
+      - label: Langages & Frameworks
+        details: Java (Spring Boot, Spring Modulith), TypeScript (Angular), Dart (Flutter), Python (FastAPI, Django), PHP (Laravel).
+      - label: Architecture & Qualité
+        details: Architectures Microservices, Hexagonale, Event-Driven, Clean Code, API RESTful, CI/CD, Tests automatisés.
+      - label: Bases de données & Middleware
+        details: PostgreSQL, PGVector, Redis (Streams, Caching), MariaDB, MongoDB, Liquibase, Keycloak, Supabase, Firebase.
+      - label: DevOps & Systèmes
+        details: Docker, Docker Compose, GitHub Actions, GitLab CI, Linux (Manjaro, Debian), Bash, Zabbix 7.
     Formation:
-      - institution: IBAM
-        area: Licence professionnelle en Méthodes informatiques appliquées à la gestion des entreprises
+      - institution: IBAM - Université Joseph Ki-Zerbo
+        area: Licence Professionnelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)
         start_date: 2023-10
         end_date: 2026-06
         location: Ouagadougou
-      - institution: Lycée Provincial Bassy de Ziniaré
-        area: Baccalauréat série C
+      - institution: Lycée Provincial Bassy
+        area: Baccalauréat Série C (Mathématiques & Sciences Physiques)
         start_date: 2020-09
         end_date: 2023-06
         location: Ziniaré
     Responsabilités:
       - company: Club Informatique IBAM
-        position: Responsable des relations extérieures
+        position: Responsable des Relations Extérieures
         start_date: 2024-11
         end_date: 2025-11
         highlights:
-          - "Développer des partenariats avec les entreprises informatiques et représenter le club lors de rencontres interuniversitaires."
+          - "Négociation de partenariats techniques et représentation du club auprès des entreprises du secteur du numérique."
       - company: Club Informatique IBAM
-        position: Adjoint à l'organisation du hackathon ComeToCode
+        position: Co-organisateur du Hackathon ComeToCode
         start_date: 2025-06
         end_date: 2025-06
         highlights:
-          - "Coordonner la logistique et l'encadrement d'un hackathon de 48 heures réunissant plus de 50 participants."
+          - "Coordination logistique, gestion du jury et encadrement technique de 50+ participants pendant 48h."
     Certifications:
       - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
         highlights:
-          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+          - "Udemy — Mai 2026"
       - name: Spring Boot REST API with Java and Gradle
         highlights:
-          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"
+          - "CodeSignal — 2026"

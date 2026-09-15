@@ -6,8 +6,8 @@
   name: "Béninwendé Jules ILBOUDO",
   title: "Béninwendé Jules ILBOUDO - CV",
   footer: context { [#emph[Béninwendé Jules ILBOUDO -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Dernière mise à jour Sep 2026] ],
-  locale-catalog-language: "fr",
+  top-note: [ #emph[Last updated in Sept 2026] ],
+  locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.65in,
@@ -101,146 +101,146 @@
   [#link("tel:+226-65-36-69-07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[65 36 69 07]]],
   [#link("https://jules-dev.onrender.com/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[jules-dev.onrender.com]]],
   [#link("https://github.com/JulesC07", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[JulesC07]]],
-  [#link("https://linkedin.com/in/jules-ilboudo-b4b3633a7", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[jules-ilboudo-b4b3633a7]]],
+  [#link("https://linkedin.com/in/beninwende-jules-ilboudo", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[beninwende-jules-ilboudo]]],
 )
   ]
 )
 
 
-== Profil professionnel
+== Professional Summary
 
-Développeur full-stack web et mobile spécialisé dans les écosystèmes Java Spring Boot, Angular et Flutter. Expérimenté dans la conception d'architectures robustes Microservices et la mise en place de fonctionnalités critiques de bout en bout en boîte d'ingénierie logicielle.
+Full-Stack Web & Mobile Developer specializing in Java Spring Boot, Angular, and Flutter. Experienced in designing robust application architectures (Hexagonal, Modulith) and delivering end-to-end critical features within software engineering consulting firms.
 
-== Expérience professionnelle
+== Work Experience
 
 #regular-entry(
   [
-    #strong[Yandoama Consulting], #emph[Consultant Développeur Full-Stack]
+    #strong[Yandoama Consulting], #emph[Full-Stack Consultant]
 
-    - Intervenir en tant que consultant full-stack sur des projets clients critiques dans le cadre de prestations d'ingénierie logicielle.
+    - Serve as a full-stack consultant on high-availability client projects within a software engineering services firm.
 
-    - Concevoir et déployer des API REST transactionnelles avec Java Spring Boot, associées à des interfaces modulaires Angular 17+.
+    - Design and deploy transactional REST APIs with Java Spring Boot, integrated with modular Angular 17+ frontends.
 
-    - Concevoir des architectures applicatives maintenables Microservices maximisant l'isolation des responsabilités et facilitant les évolutions métier.
+    - Architect maintainable software solutions (Hexagonal, Event-Driven) reducing technical debt and enabling seamless business logic updates.
 
   ],
   [
-    Sep 2026 – présent
+    Sept 2026 – present
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Yandoama Consulting], #emph[Stagiaire Développeur Full-Stack]
+    #strong[Yandoama Consulting], #emph[Full-Stack Software Developer Intern]
 
-    - Conception et livraison d'une application mobile de contrôle d'accès événementiel sous Flutter, sécurisée par Keycloak (contrôle en \<1s par QR code).
+    - Designed and delivered an event access control mobile app using Flutter, secured by Keycloak (\<1s QR code scanning verification).
 
-    - Développement de modules Spring Boot interconnectés à un tableau de bord Angular avec notifications en temps réel.
+    - Developed Spring Boot modules integrated with an Angular dashboard featuring real-time notification channels.
 
-    - Mise en place de PostgreSQL, Liquibase pour la migration de schéma et intégration Redis Streams pour la gestion d'événements.
+    - Configured PostgreSQL, Liquibase for database migrations, and integrated Redis Streams for asynchronous event handling.
 
-    - Application rigoureuse de la méthode agile Scrum (sprints de 2 semaines, revues et démos).
+    - Applied Scrum agile methodologies strictly (2-week sprints, daily standups, sprint reviews, and demos).
 
   ],
   [
-    Mai 2026 – Aoû 2026
+    May 2026 – Aug 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[IBAM - Projet académique], #emph[Développeur Full-Stack (Projet de fin d'études)]
+    #strong[IBAM - Academic Project], #emph[Full-Stack Developer (Final Year Capstone Project)]
 
-    - Conception et réalisation d'une plateforme de dépôt documentaire avec moteur de recherche sémantique et détection de plagiat.
+    - Designed and implemented an academic document repository platform with semantic search and plagiarism detection.
 
-    - Développement de l'API FastAPI intégrée à PostgreSQL, PGVector et SentenceTransformers pour le calcul de similarité vectorielle.
+    - Developed a FastAPI backend leveraging PostgreSQL, PGVector, and SentenceTransformers for vector similarity calculations.
 
-    - Implémentation d'une interface Angular dynamique et sécurisée par authentification JWT multi-rôles.
+    - Built a dynamic, responsive Angular frontend secured with multi-role JWT authentication.
 
   ],
   [
-    Avr 2026 – Mai 2026
+    Apr 2026 – May 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Projet personnel], #emph[Développeur Mobile]
+    #strong[Personal Project], #emph[Mobile Application Developer]
 
-    - Développement autonome d'une application Flutter d'analyse nutritionnelle et de suivi d'alimentation.
+    - Independently designed, developed, and deployed a Flutter mobile app for nutrition tracking and food analysis.
 
-    - Intégration de l'API multimodal Gemini pour l'identification visuelle des repas et de Hive pour le stockage local hors-ligne.
+    - Integrated the Gemini multimodal API for visual meal recognition and implemented Hive for offline local persistence.
 
   ],
   [
-    Sep 2025 – Fév 2026
+    Sept 2025 – Feb 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Club Informatique de l'IBAM], #emph[Développeur Full-Stack]
+    #strong[IBAM Computer Club], #emph[Full-Stack Developer]
 
-    - Développement et déploiement d'une application mobile de stockage cloud sécurisé avec un back-office d'administration sous Angular.
+    - Developed and deployed a secure cloud storage mobile app along with an Angular back-office dashboard.
 
-    - Intégration de Supabase pour la gestion de l'authentification et des politiques d'accès aux fichiers (RLS).
+    - Integrated Supabase for user authentication, file storage, and Row Level Security (RLS) policies.
 
   ],
   [
-    Juin 2026 – Juin 2026
+    June 2026 – June 2026
 
   ],
 )
 
-== Compétences
+== Skills
 
-#strong[Langages & Frameworks:] Java (Spring Boot, Spring Modulith), TypeScript (Angular), Dart (Flutter), Python (FastAPI, Django), PHP (Laravel).
+#strong[Languages & Frameworks:] Java (Spring Boot, Spring Modulith), TypeScript (Angular), Dart (Flutter), Python (FastAPI, Django), PHP (Laravel).
 
-#strong[Architecture & Qualité:] Architectures Microservices, Hexagonale, Event-Driven, Clean Code, API RESTful, CI\/CD, Tests automatisés.
+#strong[Architecture & Quality:] Microservices, Hexagonal Architecture, Event-Driven Architecture, Clean Code, RESTful APIs, CI\/CD, Automated Testing.
 
-#strong[Bases de données & Middleware:] PostgreSQL, PGVector, Redis (Streams, Caching), MariaDB, MongoDB, Liquibase, Keycloak, Supabase, Firebase.
+#strong[Databases & Middleware:] PostgreSQL, PGVector, Redis (Streams, Caching), MariaDB, MongoDB, Liquibase, Keycloak, Supabase, Firebase.
 
-#strong[DevOps & Systèmes:] Docker, Docker Compose, GitHub Actions, GitLab CI, Linux (Manjaro, Debian), Bash, Zabbix 7.
+#strong[DevOps & Tools:] Docker, Docker Compose, GitHub Actions, GitLab CI, Linux (Manjaro, Debian), Bash, Zabbix 7.
 
-== Formation
+== Education
 
 #education-entry(
   [
-    #strong[IBAM - Université Joseph Ki-Zerbo] -- Ouagadougou
+    #strong[IBAM - Joseph Ki-Zerbo University] -- Ouagadougou, Burkina Faso
 
-    Licence Professionnelle en Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)
+    Bachelor of Science in Information Systems & Business Informatics (MIAGE)
 
   ],
   [
-    Oct 2023 – Juin 2026
+    Oct 2023 – June 2026
 
   ],
 )
 
 #education-entry(
   [
-    #strong[Lycée Provincial Bassy] -- Ziniaré
+    #strong[Lycée Provincial Bassy] -- Ziniaré, Burkina Faso
 
-    Baccalauréat Série C (Mathématiques & Sciences Physiques)
+    High School Diploma (Baccalaureate Series C - Mathematics & Physical Sciences)
 
   ],
   [
-    Sep 2020 – Juin 2023
+    Sept 2020 – June 2023
 
   ],
 )
 
-== Responsabilités
+== Leadership & Responsibilities
 
 #regular-entry(
   [
-    #strong[Club Informatique IBAM], #emph[Responsable des Relations Extérieures]
+    #strong[IBAM Computer Club], #emph[Head of External Relations]
 
-    - Négociation de partenariats techniques et représentation du club auprès des entreprises du secteur du numérique.
+    - Established corporate tech partnerships and represented the student association at inter-university summits.
 
   ],
   [
@@ -251,13 +251,13 @@ Développeur full-stack web et mobile spécialisé dans les écosystèmes Java S
 
 #regular-entry(
   [
-    #strong[Club Informatique IBAM], #emph[Co-organisateur du Hackathon ComeToCode]
+    #strong[IBAM Computer Club], #emph[Co-Organizer - ComeToCode Hackathon]
 
-    - Coordination logistique, gestion du jury et encadrement technique de 50+ participants pendant 48h.
+    - Coordinated event logistics, managed jury panel communications, and mentored 50+ participants over a 48-hour period.
 
   ],
   [
-    Juin 2025 – Juin 2025
+    June 2025 – June 2025
 
   ],
 )
@@ -268,7 +268,7 @@ Développeur full-stack web et mobile spécialisé dans les écosystèmes Java S
   [
     #strong[Bash Scripting & Shell Automation: The Linux Architect Guide]
 
-    - Udemy — Mai 2026
+    - Udemy — May 2026
 
   ],
   [

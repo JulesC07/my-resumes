@@ -12,90 +12,95 @@ design:
 cv:
   photo: photo.jpeg
   name: Béninwendé Jules ILBOUDO
-  location: Ouagadougou
+  location: Ouagadougou, Burkina Faso
   email: beninwende07@gmail.com
   phone: +226 65366907
   website: https://jules-dev.onrender.com
   social_networks:
     - network: GitHub
       username: JulesC07
+    - network: LinkedIn
+      username: beninwende-jules-ilboudo
   sections:
-    Professional Profile:
-      - "Full-stack web and mobile developer specializing in Java Spring Boot, Angular and Flutter. Independent and results-oriented, End-to-end ownership of features, from technical design to deployment, with a strong focus on quality and maintainability."
-    Professional Experience:
+    Professional Summary:
+      - "Full-Stack Web & Mobile Developer specializing in Java Spring Boot, Angular, and Flutter. Experienced in designing robust application architectures (Hexagonal, Modulith) and delivering end-to-end critical features within software engineering consulting firms."
+    Work Experience:
       - company: Yandoama Consulting
-        position: Full-Stack Developer Consultant
+        position: Full-Stack Consultant
         start_date: 2026-09
         end_date: present
         highlights:
-          - "Design and develop Java Spring Boot APIs, Angular applications and Flutter mobile applications while independently owning technical deliverables."
-          - "Dork with product teams to turn business requirements into reliable, production-ready solutions."
+          - "Serve as a full-stack consultant on high-availability client projects within a software engineering services firm."
+          - "Design and deploy transactional REST APIs with Java Spring Boot, integrated with modular Angular 17+ frontends."
+          - "Architect maintainable software solutions (Hexagonal, Event-Driven) reducing technical debt and enabling seamless business logic updates."
       - company: Yandoama Consulting
-        position: Full-Stack Developer Intern
+        position: Full-Stack Software Developer Intern
         start_date: 2026-05
         end_date: 2026-08
         highlights:
-          - "Delivered a Flutter access-control mobile application integrated with an API."
-          - "Duilt Spring Boot modules for an existing system and an Angular interface with a real-time dashboard."
-          - "Integrated PostgreSQL, Keycloak and Checkstyle within a Scrum environment."
+          - "Designed and delivered an event access control mobile app using Flutter, secured by Keycloak (<1s QR code scanning verification)."
+          - "Developed Spring Boot modules integrated with an Angular dashboard featuring real-time notification channels."
+          - "Configured PostgreSQL, Liquibase for database migrations, and integrated Redis Streams for asynchronous event handling."
+          - "Applied Scrum agile methodologies strictly (2-week sprints, daily standups, sprint reviews, and demos)."
       - company: IBAM - Academic Project
-        position: Full-Stack Developer
+        position: Full-Stack Developer (Final Year Capstone Project)
         start_date: 2026-04
         end_date: 2026-05
         highlights:
-          - "Designed and delivered a document-submission platform with plagiarism detection, from its FastAPI backend to its Angular interface."
-          - "Implemented PostgreSQL, SQLAlchemy, PGVector, Alembic, Sentence Transformers and multi-role JWT authentication."
+          - "Designed and implemented an academic document repository platform with semantic search and plagiarism detection."
+          - "Developed a FastAPI backend leveraging PostgreSQL, PGVector, and SentenceTransformers for vector similarity calculations."
+          - "Built a dynamic, responsive Angular frontend secured with multi-role JWT authentication."
       - company: Personal Project
-        position: Mobile Developer
+        position: Mobile Application Developer
         start_date: 2025-09
         end_date: 2026-02
         highlights:
-          - "Independently led the design, development and integration of a Flutter food-tracking application."
-          - "Integrated Gemini for food analysis and Hive for local persistence."
+          - "Independently designed, developed, and deployed a Flutter mobile app for nutrition tracking and food analysis."
+          - "Integrated the Gemini multimodal API for visual meal recognition and implemented Hive for offline local persistence."
       - company: IBAM Computer Club
         position: Full-Stack Developer
         start_date: 2026-06
         end_date: 2026-06
         highlights:
-          - "Developed and deployed a cloud-storage mobile application and its Angular back office."
-          - "Integrated Supabase for authentication and data storage."
+          - "Developed and deployed a secure cloud storage mobile app along with an Angular back-office dashboard."
+          - "Integrated Supabase for user authentication, file storage, and Row Level Security (RLS) policies."
     Skills:
-      - label: Development
-        details: Java, Spring Boot, TypeScript, Angular, Python, FastAPI, Django, Dart and Flutter.
-      - label: Architecture and quality
-        details: REST APIs, microservices, modular and hexagonal architectures, code quality and review practices.
-      - label: Data and infrastructure
-        details: PostgreSQL, MariaDB, MongoDB, Docker, GitHub Actions, GitLab, Firebase, Supabase and Linux.
-      - label: Automation
-        details: n8n and deployment-process automation.
+      - label: Languages & Frameworks
+        details: Java (Spring Boot, Spring Modulith), TypeScript (Angular), Dart (Flutter), Python (FastAPI, Django), PHP (Laravel).
+      - label: Architecture & Quality
+        details: Microservices, Hexagonal Architecture, Event-Driven Architecture, Clean Code, RESTful APIs, CI/CD, Automated Testing.
+      - label: Databases & Middleware
+        details: PostgreSQL, PGVector, Redis (Streams, Caching), MariaDB, MongoDB, Liquibase, Keycloak, Supabase, Firebase.
+      - label: DevOps & Tools
+        details: Docker, Docker Compose, GitHub Actions, GitLab CI, Linux (Manjaro, Debian), Bash, Zabbix 7.
     Education:
-      - institution: IBAM
-        area: Professional Bachelor's degree in Management Information Systems
+      - institution: IBAM - Joseph Ki-Zerbo University
+        area: Bachelor of Science in Information Systems & Business Informatics (MIAGE)
         start_date: 2023-10
         end_date: 2026-06
-        location: Ouagadougou
-      - institution: Lycée Provincial Bassy de Ziniaré
-        area: Scientific Baccalaureate, Series C
+        location: Ouagadougou, Burkina Faso
+      - institution: Lycée Provincial Bassy
+        area: High School Diploma (Baccalaureate Series C - Mathematics & Physical Sciences)
         start_date: 2020-09
         end_date: 2023-06
-        location: Ziniaré
-    Leadership:
+        location: Ziniaré, Burkina Faso
+    Leadership & Responsibilities:
       - company: IBAM Computer Club
-        position: External Relations Officer
-        start_date: 2025-11
-        end_date: 2026-11
+        position: Head of External Relations
+        start_date: 2024-11
+        end_date: 2025-11
         highlights:
-          - "Build partnerships with IT companies and represent the club at inter-university events."
+          - "Established corporate tech partnerships and represented the student association at inter-university summits."
       - company: IBAM Computer Club
-        position: Assistant Organizer, ComeToCode Hackathon
+        position: Co-Organizer - ComeToCode Hackathon
         start_date: 2025-06
         end_date: 2025-06
         highlights:
-          - "Coordinated logistics and team mentoring for a 48-hour hackathon with more than 50 participants."
+          - "Coordinated event logistics, managed jury panel communications, and mentored 50+ participants over a 48-hour period."
     Certifications:
       - name: "Bash Scripting & Shell Automation: The Linux Architect Guide"
         highlights:
-          - "https://www.udemy.com/certificate/UC-b5876838-b974-47bf-8497-4616b97077f6"
+          - "Udemy — May 2026"
       - name: Spring Boot REST API with Java and Gradle
         highlights:
-          - "https://codesignal.com/learn/certificates/cmkcv8b0r001ul505vdmdndiz/course-paths/107"
+          - "CodeSignal — 2026"
